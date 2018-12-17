@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Mag-navigate patungo sa home"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Higit pang mga opsyon"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tapos na"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tingnan lahat"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pumili ng isang app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"I-OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"I-ON"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Maghanap…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"I-clear ang query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query sa paghahanap"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Maghanap"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Isumite ang query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Paghahanap gamit ang boses"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Ibahagi gamit ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"I-collapse"</string>
+    <string name="accessibility_mode">Mode na pang-kamera</string>
+    <string name="accessibility_setting">Setting</string>
+    <string name="accessibility_shutter">"Button ng shutter"</string>
+    <string name="accessibility_switch_to_panorama">Panorama na mode</string>
+    <string name="accessibility_thumbnail">"Pinakakamakailang larawan"</string>
+    <string name="aeaf_lock_indicator">AE/AF lock</string>
+    <string name="ais_title">Anti-shake</string>
+    <string name="asd_hdr_guide">Ang pag-on ng HDR ay maaaring makakuha ng mas mabuting effect sa larawan</string>
+    <string name="camera_label">"Camera"</string>
+    <string name="can_not_use_storage">Hindi available ang SD card</string>
+    <string name="continuous_saving_pictures">Sine-save ang  <ns1:g example="10" id="numbers">%1$d</ns1:g> mga larawan </string>
+    <string name="dual_camera_lens_covered_toast">Nakatakipanglente.</string>
+    <string name="dual_camera_low_constract_toast">AngmadlimnacontrastaymaaaringmakaapektosamgaDalawahangcameranaeffect.</string>
+    <string name="dual_camera_lowlight_toast">AngmadlimnailawaymaaaringmakaapektosamgaDalawahangcameranaeffect.</string>
+    <string name="dual_camera_too_close_toast">MasyadongmalapitsabagayparasamgaDalawahangcameranaeffect.</string>
+    <string name="long_exposure_abort">"Ihinto"</string>
+    <string name="long_exposure_guide_hint">Panatilihing hindi gumagalaw ang telepono pagkapindot ng boton ng shutter.</string>
+    <string name="long_exposure_motion_title">Mahabang pagkalantad</string>
+    <string name="microphone_title">"Mikropono"</string>
+    <string name="mode_fragment_title">Mgamode</string>
+    <string name="noise_reduction_title">Bawasan ang Ingay</string>
+    <string name="normal_mode_title">"Normal"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Galawinangdeviceparapagpatunginangdalawanglinya</string>
+    <string name="panorama_guide_choose_direction">Galawinangdevicepatungosadireksyonngkukunanmo</string>
+    <string name="panorama_guide_shutter">Pindutin ang shutter upang simulan ang pagkuha ng na panorama</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">Awto</string>
+    <string name="pref_camera_antibanding_entry_off">"naka-off"</string>
+    <string name="pref_camera_antibanding_title">Anti-flicker</string>
+    <string name="pref_camera_coloreffect_entry_aqua">"Aqua"</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Blackboard</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">"Asul na tint."</string>
+    <string name="pref_camera_coloreffect_entry_greentint">"Berdeng tint"</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Pelikula</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Maganda</string>
+    <string name="pref_camera_coloreffect_entry_mono">"Mono"</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">"Mosaic"</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Sariwa</string>
+    <string name="pref_camera_coloreffect_entry_negative">"Negatibo"</string>
+    <string name="pref_camera_coloreffect_entry_none">"Wala"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">"Pastel"</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"I-posterize"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">"Pulang tint"</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sepia"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Sepia na Asul</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Sepia na Berde</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegante</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Solarize</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Kalmado</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Cool"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Whiteboard</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Memorya</string>
+    <string name="pref_camera_coloreffect_title">Epekto ng kulay</string>
+    <string name="pref_camera_iso_entry_auto">Awto</string>
+    <string name="pref_camera_picturesize_title">"Laki ng larawan"</string>
+    <string name="pref_camera_scenemode_entry_action">"Pagkilos"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Auto"</string>
+    <string name="pref_camera_scenemode_entry_beach">Tabing-dagat</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Microphone</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Mga Pailaw</string>
+    <string name="pref_camera_scenemode_entry_landscape">Landscape</string>
+    <string name="pref_camera_scenemode_entry_night">"Gabi"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Portrait sa gabi</string>
+    <string name="pref_camera_scenemode_entry_off">"naka-off"</string>
+    <string name="pref_camera_scenemode_entry_party">"Partido"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Portrait</string>
+    <string name="pref_camera_scenemode_entry_snow">Niyebe</string>
+    <string name="pref_camera_scenemode_entry_sports">EIS</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Steady na larawan</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Paglubog ng araw"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Teatro</string>
+    <string name="pref_camera_scenemode_title">"Scene mode"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Auto"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Maulap"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Liwanag ng araw"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescent"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Napakaliwanag"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Likim</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Tungsten</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Takipsilim</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Warm fluorescent</string>
+    <string name="pref_camera_whitebalance_title">"White balance"</string>
+    <string name="pref_thermal_dialog_content">Masyadongmataasangtemperaturangdeviceatawtomatikonglalabasangcamerasa30segundo.Pakisubukanggamitinitomamaya.</string>
+    <string name="pref_thermal_dialog_content_launch">Masyadongmataasangtemperaturangdevice,pakigamitangcameramamaya.</string>
+    <string name="pref_thermal_dialog_title">Babala</string>
+    <string name="pref_thermal_preview_toast">Pindutin ang screen para magpatuloy.</string>
+    <string name="saving_dialog_default_string">Sine-save</string>
+    <string name="sdof_mode_name">Stereo</string>
+    <string name="sdof_picture_size_title">"Laki ng larawan"</string>
+    <string name="sdof_video_quality_title">"Kalidad ng video"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Maghanap"</string>
+    <string name="self_timer_entry_10">10 segundo</string>
+    <string name="self_timer_entry_2">2 segundo</string>
+    <string name="self_timer_entry_off">"Naka-off"</string>
+    <string name="self_timer_title">Self timer</string>
+    <string name="setting_title">"MgaSetting"</string>
+    <string name="shutter_speed_entry_1">1 segundo</string>
+    <string name="shutter_speed_entry_16">16 na segundo</string>
+    <string name="shutter_speed_entry_2">"2 segundo"</string>
+    <string name="shutter_speed_entry_4">"4 na segundo"</string>
+    <string name="shutter_speed_entry_8">"8 segundo"</string>
+    <string name="shutter_speed_entry_auto">"Auto"</string>
+    <string name="shutter_speed_title">Bilis ng shutter</string>
+    <string name="shutter_type_photo">"Larawan"</string>
+    <string name="shutter_type_video">"Video"</string>
+    <string name="slow_motion_title">Mabagal ang kilos</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Ang default na storage ay puno, pakitanggal ang ilang espasyo o i-manage ang mga opsyon sa storage sa  settings</string>
+    <string name="video_bad_performance_auto_stop">Mababa ang memory,awtomatikong ihinto ang pag-record.</string>
+    <string name="video_bad_performance_drop_quality">Mababa ang memory,awtomatikong palitan ang kalidad.</string>
+    <string name="video_camera_label">"Camcorder"</string>
+    <string name="video_quality_title">"Kalidad ng video"</string>
+    <string name="video_reach_size_limit">"Naabot ang limitasyon ng laki."</string>
+    <string name="video_recording_error">Error sa pag-record!</string>
+    <string name="video_recording_not_available">Pakihinto ang ibang recording na aplikasyon bago gumamit ng video camera.</string>
+</resources>

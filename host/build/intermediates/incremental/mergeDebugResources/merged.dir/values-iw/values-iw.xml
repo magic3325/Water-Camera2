@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"נווט לדף הבית"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"נווט למעלה"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"בוצע"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ראה הכל"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"בחר אפליקציה"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"כבוי"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"פועל"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+‎"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"מקש רווח"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"תפריט+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"חיפוש…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"מחק שאילתה"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"חיפוש"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"שלח שאילתה"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"שתף עם"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"שתף עם <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"כווץ"</string>
+    <string name="accessibility_mode">מצב מצלמה</string>
+    <string name="accessibility_setting">הגדרה</string>
+    <string name="accessibility_shutter">"לחצן הצמצם."</string>
+    <string name="accessibility_switch_to_panorama">מצב פנורמה</string>
+    <string name="accessibility_thumbnail">"התמונה האחרונה"</string>
+    <string name="aeaf_lock_indicator">נעילת AE/AF</string>
+    <string name="ais_title">נגד רעידות</string>
+    <string name="asd_hdr_guide">הפעלת האפשרות HDR עשויה לשפר את אפקט התמונה</string>
+    <string name="camera_label">"מצלמה"</string>
+    <string name="can_not_use_storage">כרטיס SD לא זמין</string>
+    <string name="continuous_saving_pictures">שומר  <ns1:g example="10" id="numbers">%1$d</ns1:g> תמונות </string>
+    <string name="dual_camera_lens_covered_toast">העדשהמכוסה.</string>
+    <string name="dual_camera_low_constract_toast">ניגודיותנמוכהעלולהלפגועבאפקטיהמצלמההכפולה.</string>
+    <string name="dual_camera_lowlight_toast">תאורהחלשהעלולהלפגועבאפקטיהמצלמההכפולה.</string>
+    <string name="dual_camera_too_close_toast">קרובמדילאובייקטמכדילהשתמשבאפקטיהמצלמההכפולה.</string>
+    <string name="long_exposure_abort">"ביטול"</string>
+    <string name="long_exposure_guide_hint">החזק את הטלפון ביציבות לאחר הלחיצה על לחצן התריס</string>
+    <string name="long_exposure_motion_title">חשיפה ארוכה</string>
+    <string name="microphone_title">"מיקרופון"</string>
+    <string name="mode_fragment_title">מצבים</string>
+    <string name="noise_reduction_title">ניחות רעשים</string>
+    <string name="normal_mode_title">"רגיל"</string>
+    <string name="pano_dialog_title">"פנורמה"</string>
+    <string name="panorama_guide_capture">הזזאתהמכשירכדילחפוףביןשניהקווים</string>
+    <string name="panorama_guide_choose_direction">הזזאתהמכשירלכיווןהצילום</string>
+    <string name="panorama_guide_shutter">לחץ על לחצן הצמצם כדי להתחיל לצלם תמונה פנורמית</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">אוטומטי</string>
+    <string name="pref_camera_antibanding_entry_off">"כבוי"</string>
+    <string name="pref_camera_antibanding_title">מונע הבהוב</string>
+    <string name="pref_camera_coloreffect_entry_aqua">אקווה</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">לוח שחור</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">גוון כחול</string>
+    <string name="pref_camera_coloreffect_entry_greentint">גוון ירוק</string>
+    <string name="pref_camera_coloreffect_entry_hefe">סרט</string>
+    <string name="pref_camera_coloreffect_entry_lofi">נהדר</string>
+    <string name="pref_camera_coloreffect_entry_mono">מונו</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">פסיפס</string>
+    <string name="pref_camera_coloreffect_entry_nashville">טרי</string>
+    <string name="pref_camera_coloreffect_entry_negative">נגטיב</string>
+    <string name="pref_camera_coloreffect_entry_none">"ללא"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">פסטל</string>
+    <string name="pref_camera_coloreffect_entry_posterize">גודל פוסטר</string>
+    <string name="pref_camera_coloreffect_entry_redtint">גוון אדום</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"חום-ספיה"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">ספיה כחול</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">ספיה ירוק</string>
+    <string name="pref_camera_coloreffect_entry_sierra">אלגנטי</string>
+    <string name="pref_camera_coloreffect_entry_solarize">סולארי</string>
+    <string name="pref_camera_coloreffect_entry_valencia">רגוע</string>
+    <string name="pref_camera_coloreffect_entry_walden">"מגניב"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">לוח</string>
+    <string name="pref_camera_coloreffect_entry_xproll">זיכרון</string>
+    <string name="pref_camera_coloreffect_title">אפקט תמונה</string>
+    <string name="pref_camera_iso_entry_auto">אוטומטי</string>
+    <string name="pref_camera_picturesize_title">"גודל תמונה"</string>
+    <string name="pref_camera_scenemode_entry_action">"פעולה"</string>
+    <string name="pref_camera_scenemode_entry_auto">"אוטומטי"</string>
+    <string name="pref_camera_scenemode_entry_beach">חוף</string>
+    <string name="pref_camera_scenemode_entry_candlelight">נר</string>
+    <string name="pref_camera_scenemode_entry_fireworks">זיקוקים</string>
+    <string name="pref_camera_scenemode_entry_landscape">לרוחב</string>
+    <string name="pref_camera_scenemode_entry_night">"לילה"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">לילה לאורך</string>
+    <string name="pref_camera_scenemode_entry_off">"כבוי"</string>
+    <string name="pref_camera_scenemode_entry_party">"מסיבה"</string>
+    <string name="pref_camera_scenemode_entry_portrait">לאורך</string>
+    <string name="pref_camera_scenemode_entry_snow">שלג</string>
+    <string name="pref_camera_scenemode_entry_sports">ספורט</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">תמונה יציבה</string>
+    <string name="pref_camera_scenemode_entry_sunset">"שקיעה"</string>
+    <string name="pref_camera_scenemode_entry_theatre">תיאטרון</string>
+    <string name="pref_camera_scenemode_title">"מצב נוף"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"אוטומטי"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"מעונן"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"אור יום"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"פלואורסנט"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"זוהר"</string>
+    <string name="pref_camera_whitebalance_entry_shade">צל</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">טונגסטן</string>
+    <string name="pref_camera_whitebalance_entry_twilight">דמדומים</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">פלורוסנט חם</string>
+    <string name="pref_camera_whitebalance_title">"איזון לבן"</string>
+    <string name="pref_thermal_dialog_content">טמפרטורתהמכשירגבוההמדיוהמצלמהתיסגראוטומטיתתוך30שניות.נסהלהשתמשבהמאוחריותר.</string>
+    <string name="pref_thermal_dialog_content_launch">טמפרטורתהמכשירגבוההמדי,השתמשבמצלמהמאוחריותר.</string>
+    <string name="pref_thermal_dialog_title">אזהרה</string>
+    <string name="pref_thermal_preview_toast">גע במסך כדי להמשיך.</string>
+    <string name="saving_dialog_default_string">שומר...</string>
+    <string name="sdof_mode_name">עומק שדה</string>
+    <string name="sdof_picture_size_title">"גודל תמונה"</string>
+    <string name="sdof_video_quality_title">"איכות סרטון"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"חיפוש"</string>
+    <string name="self_timer_entry_10">10 שניות</string>
+    <string name="self_timer_entry_2">2 שניות</string>
+    <string name="self_timer_entry_off">"כבוי"</string>
+    <string name="self_timer_title">טיימר עצמי</string>
+    <string name="setting_title">"הגדרות"</string>
+    <string name="shutter_speed_entry_1">‏1 שניות</string>
+    <string name="shutter_speed_entry_16">‏16 שניות</string>
+    <string name="shutter_speed_entry_2">"2 שניות"</string>
+    <string name="shutter_speed_entry_4">"4 שניות"</string>
+    <string name="shutter_speed_entry_8">"8 שניות"</string>
+    <string name="shutter_speed_entry_auto">"אוטומטי"</string>
+    <string name="shutter_speed_title">מהירות תריס</string>
+    <string name="shutter_type_photo">"תמונה"</string>
+    <string name="shutter_type_video">"סרטון"</string>
+    <string name="slow_motion_title">הילוך אטי</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">"זיכרון ברירת המחדל מלא, פנה מקום או נהל את אפשרויות האחסון ב'הגדרות'"</string>
+    <string name="video_bad_performance_auto_stop">אין מספיק זיכרון, ההקלטה תופסק אוטומטית.</string>
+    <string name="video_bad_performance_drop_quality">אין מפסיק זיכרון, איכות ההקלטה תשתנה אוטומטית.</string>
+    <string name="video_camera_label">"מצלמת וידאו"</string>
+    <string name="video_quality_title">"איכות סרטון"</string>
+    <string name="video_reach_size_limit">"הגעת למגבלת הגודל."</string>
+    <string name="video_recording_error">שגיאה במהלך ההקלטה!</string>
+    <string name="video_recording_not_available">לפני השימוש במצלמת הוידיאו, אנא עצור יישומי הקלטה נוספים.</string>
+</resources>

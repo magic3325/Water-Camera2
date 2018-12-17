@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LongExposureView">
+        <attr format="color" name="roundColor"/>
+        <attr format="color" name="roundProgressColor"/>
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+    </declare-styleable>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>

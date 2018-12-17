@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Pārvietoties augšup"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Vairāk opciju"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IZSLĒGTS"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"IESLĒGTS"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alternēšanas taustiņš +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Vadīšanas taustiņš +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"dzēšanas taustiņš"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"ievadīšanas taustiņš"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funkcijas taustiņš +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta taustiņš +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Pārslēgšanas taustiņš +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"atstarpes taustiņš"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Simbolu taustiņš +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Poga Izvēlne +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Meklēšana ar balsi"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Kopīgot ar lietojumprogrammu <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string name="accessibility_mode">Kameras režīms</string>
+    <string name="accessibility_setting">Iestatījums</string>
+    <string name="accessibility_shutter">"Slēdža poga"</string>
+    <string name="accessibility_switch_to_panorama">Panorāmas režīms</string>
+    <string name="accessibility_thumbnail">"Pēdējais fotoattēls"</string>
+    <string name="aeaf_lock_indicator">AE/AF izslēgšana</string>
+    <string name="ais_title">Izkustēšanās korekcija</string>
+    <string name="asd_hdr_guide">Ieslēdzot HDR, var iegūt labāku fotoattēla efektu</string>
+    <string name="camera_label">"Kamera"</string>
+    <string name="can_not_use_storage">SD karte nav pieejama</string>
+    <string name="continuous_saving_pictures">Saglabā <ns1:g example="10" id="numbers">%1$d</ns1:g> attēlus</string>
+    <string name="dual_camera_lens_covered_toast">Objektīvsaizvērts.</string>
+    <string name="dual_camera_low_constract_toast">Zemskontrastsvarietekmētdivukameruefektus.</string>
+    <string name="dual_camera_lowlight_toast">Vājšapgaismojumsvarietekmētdivukameruefektus.</string>
+    <string name="dual_camera_too_close_toast">Pārāktuvuobjektam,laiizmantotudivukameruefektus.</string>
+    <string name="long_exposure_abort">"Pārtraukt"</string>
+    <string name="long_exposure_guide_hint">Pēc aizvara pogas nospiešana turiet tālruni nekustīgi</string>
+    <string name="long_exposure_motion_title">Ilga ekspozīcija</string>
+    <string name="microphone_title">"Mikrofons"</string>
+    <string name="mode_fragment_title">Režīmi</string>
+    <string name="noise_reduction_title">Trokšņu mazināšana</string>
+    <string name="normal_mode_title">"Normāls"</string>
+    <string name="pano_dialog_title">"Panorāma"</string>
+    <string name="panorama_guide_capture">Pārvietojietkameru,laiabaslīnijaspārklātos</string>
+    <string name="panorama_guide_choose_direction">Pārvietojietierīcitveršanasvirzienā</string>
+    <string name="panorama_guide_shutter">Nospiediet aizvaru, lai sāktu tvert panorāmu</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">"Automātiski"</string>
+    <string name="pref_camera_antibanding_entry_off">"Izslēgt"</string>
+    <string name="pref_camera_antibanding_title">Anti-flicker</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Akvamarīna</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Melnā tāfele</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Zils tonis</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Zaļš tonis</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Filma</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Lielisks</string>
+    <string name="pref_camera_coloreffect_entry_mono">Vienkrāsains</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Mozaīka</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Svaigs</string>
+    <string name="pref_camera_coloreffect_entry_negative">Negatīvs</string>
+    <string name="pref_camera_coloreffect_entry_none">"Nav"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Pasteļtoņi</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Izveidot plakātu</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Sarkans tonis</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sēpija"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Zila sēpija</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Zaļa sēpija</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegants </string>
+    <string name="pref_camera_coloreffect_entry_solarize">Pārgaismot</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Mierīgs</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Kolosāli"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Baltā tāfele</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Atmiņas </string>
+    <string name="pref_camera_coloreffect_title">Krāsu efekts</string>
+    <string name="pref_camera_iso_entry_auto">"Automātiski"</string>
+    <string name="pref_camera_picturesize_title">"Attēla izmērs"</string>
+    <string name="pref_camera_scenemode_entry_action">"Kustība"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automātiski"</string>
+    <string name="pref_camera_scenemode_entry_beach">Pludmale</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Sveču gaisma</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Uguņošana</string>
+    <string name="pref_camera_scenemode_entry_landscape">Ainava</string>
+    <string name="pref_camera_scenemode_entry_night">"Nakts"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Portrets naktī</string>
+    <string name="pref_camera_scenemode_entry_off">"Izslēgt"</string>
+    <string name="pref_camera_scenemode_entry_party">"Viesības"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Portrets</string>
+    <string name="pref_camera_scenemode_entry_snow">Sniegs</string>
+    <string name="pref_camera_scenemode_entry_sports">Sports</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Stabils fotoattēls</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Saulriets"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Teātris</string>
+    <string name="pref_camera_scenemode_title">"Ainas režīms"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automātiski"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Mākoņains"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Dienasgaisma"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescējošs"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Spožs"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Ēnojums</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Volframs</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Krēsla</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Silts fluorescējošs</string>
+    <string name="pref_camera_whitebalance_title">"Baltās krāsas balanss"</string>
+    <string name="pref_thermal_dialog_content">Ierīcestemperatūrairpārākaugsta.Kameraautomātiskiizslēgsiespēc30sekundēm.Lūdzu,mēģiniettolietotvēlāk.</string>
+    <string name="pref_thermal_dialog_content_launch">Ierīcestemperatūrairpārākaugsta.Lūdzu,lietojietkameruvēlāk.</string>
+    <string name="pref_thermal_dialog_title">Brīdinājums</string>
+    <string name="pref_thermal_preview_toast">Pieskarieties ekrānam, lai turpinātu.</string>
+    <string name="saving_dialog_default_string">saglabā...</string>
+    <string name="sdof_mode_name">Stereo</string>
+    <string name="sdof_picture_size_title">"Attēla izmērs"</string>
+    <string name="sdof_video_quality_title">"Video kvalitāte"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Meklēt"</string>
+    <string name="self_timer_entry_10">"10 sekundes"</string>
+    <string name="self_timer_entry_2">"2 sekundes"</string>
+    <string name="self_timer_entry_off">"Izslēgt"</string>
+    <string name="self_timer_title">Palaišanas taimeris</string>
+    <string name="setting_title">"Iestatījumi"</string>
+    <string name="shutter_speed_entry_1">1 sekunde</string>
+    <string name="shutter_speed_entry_16">16 sekundes</string>
+    <string name="shutter_speed_entry_2">"2 sekundes"</string>
+    <string name="shutter_speed_entry_4">"4 sekundes"</string>
+    <string name="shutter_speed_entry_8">"8 sekundes"</string>
+    <string name="shutter_speed_entry_auto">"Automātiski"</string>
+    <string name="shutter_speed_title">Aizvara ātrums</string>
+    <string name="shutter_type_photo">"Attēls"</string>
+    <string name="shutter_type_video">"Video"</string>
+    <string name="slow_motion_title">Palēnināti</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Noklusējuma krātuve ir pilna; atbrīvojiet vietu vai iestatījumiem pārvaldiet krātuves opcijas</string>
+    <string name="video_bad_performance_auto_stop">Atmiņā nepietiek vietas. Automātiski apturēt ierakstīšanu.</string>
+    <string name="video_bad_performance_drop_quality">Atmiņā nepietiek vietas. Automātiski izmainīt kvalitāti.</string>
+    <string name="video_camera_label">"Videokamera"</string>
+    <string name="video_quality_title">"Video kvalitāte"</string>
+    <string name="video_reach_size_limit">"Lieluma ierobežojums ir sasniegts."</string>
+    <string name="video_recording_error">Kļūda ierakstīšanas laikā!</string>
+    <string name="video_recording_not_available">Pirms video kameras izmantošanas apturiet citas ieraksta lietojumprogrammas.</string>
+</resources>

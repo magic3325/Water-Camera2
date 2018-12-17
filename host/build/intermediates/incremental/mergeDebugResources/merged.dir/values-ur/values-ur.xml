@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ہوم پر نیویگیٹ کریں"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"اوپر نیویگیٹ کریں"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"مزید اختیارات"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"ہو گیا"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"سبھی دیکھیں"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"ایک ایپ منتخب کریں"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"آف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"آن"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+‎"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+‎"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+‎"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+‎"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+‎"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+‎"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+‎"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"تلاش کریں…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"استفسار صاف کریں"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"استفسار تلاش کریں"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"تلاش کریں"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"استفسار جمع کرائیں"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"صوتی تلاش"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک کریں مع"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> کے ساتھ اشتراک کریں"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"سکیڑیں"</string>
+    <string name="accessibility_mode">کیمرا موڈ</string>
+    <string name="accessibility_setting">ترتیب</string>
+    <string name="accessibility_shutter">شٹر کا بٹن</string>
+    <string name="accessibility_switch_to_panorama">مسلسل منظر والی وضع</string>
+    <string name="accessibility_thumbnail">حالیہ ترین تصویر</string>
+    <string name="aeaf_lock_indicator">AE/AF لاک</string>
+    <string name="ais_title">لرزش مخالف</string>
+    <string name="asd_hdr_guide">HDR کو چالو کرنے سے تصویر میں بہتر تاثر پیدا ہوسکتا ہے</string>
+    <string name="camera_label">کیمرا</string>
+    <string name="can_not_use_storage">SD کارڈ دستیاب نہیں ہے</string>
+    <string name="continuous_saving_pictures">  <ns1:g example="10" id="numbers">%1$d</ns1:g> ‎تصویریں محفوظ ہورہی ‏ہیں </string>
+    <string name="dual_camera_lens_covered_toast">لینسڈھکاہواہے۔</string>
+    <string name="dual_camera_low_constract_toast">کمتضاددوہرےکیمراوالےاثراتکومتاثرکرسکتاہے۔</string>
+    <string name="dual_camera_lowlight_toast">کمروشنیدوہرےکیمراوالےاثراتکومتاثرکرسکتاہے۔</string>
+    <string name="dual_camera_too_close_toast">دوہرےکیمرےوالےاثراتکےلیےشئےسےبہتزیادہقریب۔</string>
+    <string name="long_exposure_abort">"روک دیں"</string>
+    <string name="long_exposure_guide_hint">شٹر بٹن دبانے کے بعد فون کو حرکت نہ دیں</string>
+    <string name="long_exposure_motion_title">طویل ایکسپوژر</string>
+    <string name="microphone_title">"مائکروفون"</string>
+    <string name="mode_fragment_title">موڈز</string>
+    <string name="noise_reduction_title"> شورمیں کمی</string>
+    <string name="normal_mode_title">"عام"</string>
+    <string name="pano_dialog_title">پینوراما</string>
+    <string name="panorama_guide_capture">دولائنوںکوایکدوسرےپرلانے‏کیلئےآلےکودائیںجانب‏حرکتدیں</string>
+    <string name="panorama_guide_choose_direction">آلےکواپنےکیپچروالیسمت‏میںحرکتدیں</string>
+    <string name="panorama_guide_shutter">مسلسل مناظر لینا شروع کرنے کیلئے شٹر دبائیں</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">خودکار</string>
+    <string name="pref_camera_antibanding_entry_off">بند</string>
+    <string name="pref_camera_antibanding_title">اینٹی فلکر</string>
+    <string name="pref_camera_coloreffect_entry_aqua">ایکوا</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">بلیک بورڈ</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">نیلا ٹنٹ</string>
+    <string name="pref_camera_coloreffect_entry_greentint">ہرا ٹنٹ</string>
+    <string name="pref_camera_coloreffect_entry_hefe">فلم</string>
+    <string name="pref_camera_coloreffect_entry_lofi">دلکش</string>
+    <string name="pref_camera_coloreffect_entry_mono">مونو</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">موزیک</string>
+    <string name="pref_camera_coloreffect_entry_nashville">تازہ</string>
+    <string name="pref_camera_coloreffect_entry_negative">منفی</string>
+    <string name="pref_camera_coloreffect_entry_none">کوئی نہيں</string>
+    <string name="pref_camera_coloreffect_entry_pastel">پیسٹل</string>
+    <string name="pref_camera_coloreffect_entry_posterize">پوسٹرائز</string>
+    <string name="pref_camera_coloreffect_entry_redtint">لال ٹنٹ</string>
+    <string name="pref_camera_coloreffect_entry_sepia">گہرا بھورا</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">سیپیا نیلا</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">سیپیا ہرا</string>
+    <string name="pref_camera_coloreffect_entry_sierra">نفیس</string>
+    <string name="pref_camera_coloreffect_entry_solarize">سولرائز</string>
+    <string name="pref_camera_coloreffect_entry_valencia">پرسکون</string>
+    <string name="pref_camera_coloreffect_entry_walden">پرسکون</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">سفید بورڈ</string>
+    <string name="pref_camera_coloreffect_entry_xproll">حافظہ</string>
+    <string name="pref_camera_coloreffect_title">رنگ کا اثر</string>
+    <string name="pref_camera_iso_entry_auto">خودکار</string>
+    <string name="pref_camera_picturesize_title">تصویر کا سائز</string>
+    <string name="pref_camera_scenemode_entry_action">کارروائی</string>
+    <string name="pref_camera_scenemode_entry_auto">خودکار</string>
+    <string name="pref_camera_scenemode_entry_beach">ساحل</string>
+    <string name="pref_camera_scenemode_entry_candlelight">موم بتی کی روشنی</string>
+    <string name="pref_camera_scenemode_entry_fireworks">پٹاخے</string>
+    <string name="pref_camera_scenemode_entry_landscape">لینڈاسکیپ</string>
+    <string name="pref_camera_scenemode_entry_night">رات</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">رات کی پورٹریٹ</string>
+    <string name="pref_camera_scenemode_entry_off">بند</string>
+    <string name="pref_camera_scenemode_entry_party">پارٹی</string>
+    <string name="pref_camera_scenemode_entry_portrait">پورٹریٹ</string>
+    <string name="pref_camera_scenemode_entry_snow">برف</string>
+    <string name="pref_camera_scenemode_entry_sports">کھیل</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">مستحکم تصویر</string>
+    <string name="pref_camera_scenemode_entry_sunset">مغرب</string>
+    <string name="pref_camera_scenemode_entry_theatre">تھیٹر</string>
+    <string name="pref_camera_scenemode_title">سین وضع</string>
+    <string name="pref_camera_whitebalance_entry_auto">خودکار</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">ابرآلود</string>
+    <string name="pref_camera_whitebalance_entry_daylight">دن کی روشنی</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">فلوریسنٹ</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">چمکدار</string>
+    <string name="pref_camera_whitebalance_entry_shade">چھاؤں</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">ٹنگسٹن</string>
+    <string name="pref_camera_whitebalance_entry_twilight">شام</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">گرم فلوریسنٹ</string>
+    <string name="pref_camera_whitebalance_title">سفید کا توازن</string>
+    <string name="pref_thermal_dialog_content">آلےکادرجہحرارتبہتزیادہہےاورکیمرا30سیکنڈمیںخودبخودخارجہوجائےگا۔براہکرماسےبعدمیںاستعمالکرنےکیکوششکریں۔</string>
+    <string name="pref_thermal_dialog_content_launch">آلےکادرجہحرارتبہتزیادہہے،براہکرمکیمرابعدمیںاستعمالکریں۔</string>
+    <string name="pref_thermal_dialog_title">تنبیہہ</string>
+    <string name="pref_thermal_preview_toast">جاری رکھنے کے لیے اسکرین چھوئیں۔</string>
+    <string name="saving_dialog_default_string">محفوظ کررہا ہے۔۔۔</string>
+    <string name="sdof_mode_name">اسٹیریو</string>
+    <string name="sdof_picture_size_title">تصویر کا سائز</string>
+    <string name="sdof_video_quality_title">ویڈيو کا معیار</string>
+    <string msgid="146198913615257606" name="search_menu_title">"تلاش"</string>
+    <string name="self_timer_entry_10">10 سیکنڈ</string>
+    <string name="self_timer_entry_2">2 سیکنڈ</string>
+    <string name="self_timer_entry_off">بند</string>
+    <string name="self_timer_title">خودکار ٹائمر</string>
+    <string name="setting_title">"ترتیبات"</string>
+    <string name="shutter_speed_entry_1">1 سیکنڈ</string>
+    <string name="shutter_speed_entry_16">16 سیکنڈ</string>
+    <string name="shutter_speed_entry_2">2  سیکنڈ</string>
+    <string name="shutter_speed_entry_4">4 سیکنڈز</string>
+    <string name="shutter_speed_entry_8">8 سیکنڈز</string>
+    <string name="shutter_speed_entry_auto">خودکار</string>
+    <string name="shutter_speed_title">شٹر کی رفتار</string>
+    <string name="shutter_type_photo">تصویر</string>
+    <string name="shutter_type_video">ویڈیو</string>
+    <string name="slow_motion_title">سست رفتار</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="storage_full">ڈیفالٹ اسٹوریج بھرا ہوا ہے۔ براہ کرم کچھ جگہ خالی کریں یا سیٹنگز میں اسٹوریج کے اختیار کا نظم کریں</string>
+    <string name="video_bad_performance_auto_stop">کم میموری، ریکارڈنگ خود بخود بند کردیں۔</string>
+    <string name="video_bad_performance_drop_quality">کم میموری، معیار خود بخود تبدیل کردیں۔</string>
+    <string name="video_camera_label">کیم کارڈر</string>
+    <string name="video_quality_title">ویڈيو کا معیار</string>
+    <string name="video_reach_size_limit">سائز کی حد تجاوز۔</string>
+    <string name="video_recording_error"> ریکارڈنگ کے دوران نقص!</string>
+    <string name="video_recording_not_available">ویڈیو کیمرہ استعمال کرنے سے پہلے ریکارڈنگ کے دوسرے اضافی پروگرام روک دیں۔</string>
+</resources>

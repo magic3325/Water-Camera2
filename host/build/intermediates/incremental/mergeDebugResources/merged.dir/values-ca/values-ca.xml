@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navega a la pàgina d\'inici"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navega cap a dalt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Mostra\'ls tots"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Supr"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Retorn"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funció+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Espai"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menú+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="accessibility_mode">Mode de càmera</string>
+    <string name="accessibility_setting">Configuració</string>
+    <string name="accessibility_shutter">"Botó de l\'obturador"</string>
+    <string name="accessibility_switch_to_panorama">Mode panorama</string>
+    <string name="accessibility_thumbnail">"Foto més recent"</string>
+    <string name="aeaf_lock_indicator">Bloqueig AE/AF</string>
+    <string name="ais_title">Anti-agitació</string>
+    <string name="asd_hdr_guide">L’activació de l’HDR pot millorar els efectes fotogràfics</string>
+    <string name="camera_label">"Càmera"</string>
+    <string name="can_not_use_storage">Targeta SD no disponible</string>
+    <string name="continuous_saving_pictures">Desant <ns1:g example="10" id="numbers">%1$d</ns1:g> imatges</string>
+    <string name="dual_camera_lens_covered_toast">Lentsprotegides.</string>
+    <string name="dual_camera_low_constract_toast">Poccontrastpotinterferirenelsefectesdecàmeradual.</string>
+    <string name="dual_camera_lowlight_toast">Pocallumpotinterferirenelsefectesdecàmeradual.</string>
+    <string name="dual_camera_too_close_toast">"Massaapropdel'objecteperalsefectesdecàmeradual."</string>
+    <string name="long_exposure_abort">"Avorta"</string>
+    <string name="long_exposure_guide_hint">"Mantén el telèfon estable després de prémer el botó de l'obturador"</string>
+    <string name="long_exposure_motion_title">Exposició llarga</string>
+    <string name="microphone_title">"Micròfon"</string>
+    <string name="mode_fragment_title">Modes</string>
+    <string name="noise_reduction_title">Reducció de soroll</string>
+    <string name="normal_mode_title">"Normal"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Moueldispositiupersolaparlesdueslínies</string>
+    <string name="panorama_guide_choose_direction">Moueldispositiucapalatevadirecciódecaptura</string>
+    <string name="panorama_guide_shutter">Premeu el disparador per iniciar la captura panoràmica</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">"automàtica"</string>
+    <string name="pref_camera_antibanding_entry_off">"Desactivat"</string>
+    <string name="pref_camera_antibanding_title">Antiparpelleig</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Pissarra</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Tint blau</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Tint verd</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Pel·lícula</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Preciós</string>
+    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Mosaic </string>
+    <string name="pref_camera_coloreffect_entry_nashville">"Nashville"</string>
+    <string name="pref_camera_coloreffect_entry_negative">"Negatiu"</string>
+    <string name="pref_camera_coloreffect_entry_none">"Cap"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Pastel</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"Posteritza"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Tint vermell</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sèpia"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Blau sèpia</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Verd sèpia</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegant</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Solaritza</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Calma</string>
+    <string name="pref_camera_coloreffect_entry_walden">Enrotllat</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Pissarra blanca</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Memòria</string>
+    <string name="pref_camera_coloreffect_title">Efecte de color</string>
+    <string name="pref_camera_iso_entry_auto">"automàtica"</string>
+    <string name="pref_camera_picturesize_title">"Mida de la imatge"</string>
+    <string name="pref_camera_scenemode_entry_action">"Acció"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automàtic"</string>
+    <string name="pref_camera_scenemode_entry_beach">Platja</string>
+    <string name="pref_camera_scenemode_entry_candlelight">"Llum d'espelmes"</string>
+    <string name="pref_camera_scenemode_entry_fireworks">"Focs d'artifici"</string>
+    <string name="pref_camera_scenemode_entry_landscape">"Horitzontal"</string>
+    <string name="pref_camera_scenemode_entry_night">"Nocturn"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Retrat nocturn</string>
+    <string name="pref_camera_scenemode_entry_off">"Desactivat"</string>
+    <string name="pref_camera_scenemode_entry_party">"Festa"</string>
+    <string name="pref_camera_scenemode_entry_portrait">"Vertical"</string>
+    <string name="pref_camera_scenemode_entry_snow">Neu</string>
+    <string name="pref_camera_scenemode_entry_sports">Esports</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Fotografia estable</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Posta del sol"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Teatre</string>
+    <string name="pref_camera_scenemode_title">"Mode d\'escena"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automàtica"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Ennuvolat"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Llum de dia"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescent"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Incandescent"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Ombres</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Tungsté</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Penombra</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Fluorescent càlid</string>
+    <string name="pref_camera_whitebalance_title">"Balanç de blancs"</string>
+    <string name="pref_thermal_dialog_content">"Latemperaturadeldispositiuésmassaaltailacàmerasortiràautomàticamenten30segons.Provad'utilitzar-laméstard."</string>
+    <string name="pref_thermal_dialog_content_launch">Latemperaturadeldispositiuésmassaalta,utilitzalacàmeraméstard.</string>
+    <string name="pref_thermal_dialog_title">Advertència</string>
+    <string name="pref_thermal_preview_toast">Toqueu la pantalla per continuar.</string>
+    <string name="saving_dialog_default_string">desant...</string>
+    <string name="sdof_mode_name">Estèreo</string>
+    <string name="sdof_picture_size_title">"Mida de la imatge"</string>
+    <string name="sdof_video_quality_title">"Qualitat de vídeo"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Cerca"</string>
+    <string name="self_timer_entry_10">"10 segons"</string>
+    <string name="self_timer_entry_2">"2 segons"</string>
+    <string name="self_timer_entry_off">"desactivada"</string>
+    <string name="self_timer_title">Temporitzador</string>
+    <string name="setting_title">"Configuració"</string>
+    <string name="shutter_speed_entry_1">1 segon</string>
+    <string name="shutter_speed_entry_16">16 segons</string>
+    <string name="shutter_speed_entry_2">"2 segons"</string>
+    <string name="shutter_speed_entry_4">"4 segons"</string>
+    <string name="shutter_speed_entry_8">"8 segons"</string>
+    <string name="shutter_speed_entry_auto">"Automàtic"</string>
+    <string name="shutter_speed_title">"Velocitat de l'obturador"</string>
+    <string name="shutter_type_photo">"Imatge"</string>
+    <string name="shutter_type_video">"Vídeo"</string>
+    <string name="slow_motion_title">Càmera lenta</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">"L'emmagatzematge predeterminat és ple, allibereu espai o gestioneu les opcions d'emmagatzematge a la configuració"</string>
+    <string name="video_bad_performance_auto_stop">"Memòria baixa, la gravació s'ha aturat automàticament."</string>
+    <string name="video_bad_performance_drop_quality">"Memòria baixa, la qualitat s'ha canviat automàticament."</string>
+    <string name="video_camera_label">"Càmera de vídeo"</string>
+    <string name="video_quality_title">"Qualitat de vídeo"</string>
+    <string name="video_reach_size_limit">"S\'ha arribat al límit de mida"</string>
+    <string name="video_recording_error">Errada durant la gravació"</string>
+    <string name="video_recording_not_available">Atureu altres aplicacions de vídeo abans de fer servir la càmera de vídeo.</string>
+</resources>

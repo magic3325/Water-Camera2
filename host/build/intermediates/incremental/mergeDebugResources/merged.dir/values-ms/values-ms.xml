@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigasi skrin utama"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigasi ke atas"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lagi pilihan"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pilih apl"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"MATI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"HIDUP"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"padam"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fungsi+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"ruang"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cari…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Kosongkan pertanyaan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Pertanyaan carian"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cari"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Serah pertanyaan"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Carian suara"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Kongsi dengan"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Kongsi dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Runtuhkan"</string>
+    <string name="accessibility_mode">Mod kamera</string>
+    <string name="accessibility_setting">Tetapan</string>
+    <string name="accessibility_shutter">"Butang pengatup"</string>
+    <string name="accessibility_switch_to_panorama">Mod panorama</string>
+    <string name="accessibility_thumbnail">"Foto paling terbaru"</string>
+    <string name="aeaf_lock_indicator">Kunci AE/AF</string>
+    <string name="ais_title">Antigegar</string>
+    <string name="asd_hdr_guide">Hidupkan HDR untuk mendapatkan kesan foto yang lebih baik</string>
+    <string name="camera_label">"Kamera"</string>
+    <string name="can_not_use_storage">Kad SD tidak tersedia</string>
+    <string name="continuous_saving_pictures">Menyimpan  <ns1:g example="10" id="numbers">%1$d</ns1:g> gambar </string>
+    <string name="dual_camera_lens_covered_toast">Lensaditutup.</string>
+    <string name="dual_camera_low_constract_toast">KontrasrendahbolehmenjejaskankesanDuakamera.</string>
+    <string name="dual_camera_lowlight_toast">CahayarendahbolehmenjejaskankesanDuakamera.</string>
+    <string name="dual_camera_too_close_toast">TerlaludekatdenganobjekuntukkesanDuakamera.</string>
+    <string name="long_exposure_abort">"Henti paksa"</string>
+    <string name="long_exposure_guide_hint">Pastikan telefon stabil selepas menekan butang pengatup</string>
+    <string name="long_exposure_motion_title">Dedahan lama</string>
+    <string name="microphone_title">"Mikrofon"</string>
+    <string name="mode_fragment_title">Mod</string>
+    <string name="noise_reduction_title">Pengurangan Hingar</string>
+    <string name="normal_mode_title">"Biasa"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Gerakkanperantiuntukmenindanduabaristersebut</string>
+    <string name="panorama_guide_choose_direction">Gerakkanperantikearahtangkapananda</string>
+    <string name="panorama_guide_shutter">Tekan pengatup untuk mula menangkap panorama</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">Auto</string>
+    <string name="pref_camera_antibanding_entry_off">"mati"</string>
+    <string name="pref_camera_antibanding_title">Antikerlipan</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Akua</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Papan hitam</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Tinta Biru</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Tinta Hijau</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Wayang</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Cantik</string>
+    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Mosaik</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Segar</string>
+    <string name="pref_camera_coloreffect_entry_negative">Negatif</string>
+    <string name="pref_camera_coloreffect_entry_none">"Tiada"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Pastel</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Pemposteran</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Tinta Merah</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sepia"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Biru Sepia</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Hijau Sepia</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Anggun</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Pensuriaan</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Tenang</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Segak"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Papan putih</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Memori</string>
+    <string name="pref_camera_coloreffect_title">Kesan warna</string>
+    <string name="pref_camera_iso_entry_auto">Auto</string>
+    <string name="pref_camera_picturesize_title">"Saiz gambar"</string>
+    <string name="pref_camera_scenemode_entry_action">"Aksi"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Auto"</string>
+    <string name="pref_camera_scenemode_entry_beach">Pantai</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Cahaya Lilin</string>
+    <string name="pref_camera_scenemode_entry_fireworks">"Bunga api"</string>
+    <string name="pref_camera_scenemode_entry_landscape">Landskap</string>
+    <string name="pref_camera_scenemode_entry_night">"Malam"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Potret malam</string>
+    <string name="pref_camera_scenemode_entry_off">"mati"</string>
+    <string name="pref_camera_scenemode_entry_party">"Parti"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Potret</string>
+    <string name="pref_camera_scenemode_entry_snow">Salji</string>
+    <string name="pref_camera_scenemode_entry_sports">"Aksi"</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Foto stabil</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Matahari Terbenam"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Teater</string>
+    <string name="pref_camera_scenemode_title">"Mod pemandangan"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Auto"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Mendung"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Siang hari"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Pendarfluor"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Berpijar"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Rona</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Tungsten</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Senja</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Berpendar Hangat</string>
+    <string name="pref_camera_whitebalance_title">"Imbangan putih"</string>
+    <string name="pref_thermal_dialog_content">Suhuperantiterlalutinggidankameraakankeluarsecaraautomatikdalam30saat.Silacubagunakannyakemudian.</string>
+    <string name="pref_thermal_dialog_content_launch">Suhuperantiterlalutinggi,silagunakankamerasebentarlagi.</string>
+    <string name="pref_thermal_dialog_title">Amaran</string>
+    <string name="pref_thermal_preview_toast">Sentuh skrin untuk meneruskan.</string>
+    <string name="saving_dialog_default_string">Menyimpan…</string>
+    <string name="sdof_mode_name">Kedalaman fokus</string>
+    <string name="sdof_picture_size_title">"Saiz gambar"</string>
+    <string name="sdof_video_quality_title">"Kualiti video"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Cari"</string>
+    <string name="self_timer_entry_10">10 saat</string>
+    <string name="self_timer_entry_2">2 saat</string>
+    <string name="self_timer_entry_off">"Mati"</string>
+    <string name="self_timer_title">Pemasa sendiri</string>
+    <string name="setting_title">Tetapan</string>
+    <string name="shutter_speed_entry_1">1 saat</string>
+    <string name="shutter_speed_entry_16">16 saat</string>
+    <string name="shutter_speed_entry_2">"2 saat"</string>
+    <string name="shutter_speed_entry_4">"4 saat"</string>
+    <string name="shutter_speed_entry_8">"8 saat"</string>
+    <string name="shutter_speed_entry_auto">"Auto"</string>
+    <string name="shutter_speed_title">Kelajuan pengatup</string>
+    <string name="shutter_type_photo">"Gambar"</string>
+    <string name="shutter_type_video">Video</string>
+    <string name="slow_motion_title">gerak perlahan</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Storan lalai penuh, sila kosongkan sedikit ruang atau urus pilihan storan dalam tetapan</string>
+    <string name="video_bad_performance_auto_stop">Memori rendah, rakaman dihentikan secara automatik</string>
+    <string name="video_bad_performance_drop_quality">Memori rendah, kualiti ditukar secara automatik</string>
+    <string name="video_camera_label">"Kamkorder"</string>
+    <string name="video_quality_title">"Kualiti video"</string>
+    <string name="video_reach_size_limit">"Had saiz dicapai."</string>
+    <string name="video_recording_error">Ralat semasa merakam!</string>
+    <string name="video_recording_not_available">Sila hentikan aplikasi rakaman lain sebelum menggunakan kamera video.</string>
+</resources>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Gå til startsiden"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funksjon+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"mellomrom"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Meny+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søk …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="accessibility_mode">Kameramodus</string>
+    <string name="accessibility_setting">Innstilling</string>
+    <string name="accessibility_shutter">"Lukkerknapp"</string>
+    <string name="accessibility_switch_to_panorama">Panoramamodus</string>
+    <string name="accessibility_thumbnail">"Nyeste bilde"</string>
+    <string name="aeaf_lock_indicator">AE/AF-lås</string>
+    <string name="ais_title">Anti-rist</string>
+    <string name="asd_hdr_guide">Slå på HDR for å få en bedre bildeeffekt</string>
+    <string name="camera_label">"Kamera"</string>
+    <string name="can_not_use_storage">SD-kort ikke tilgjengelig</string>
+    <string name="continuous_saving_pictures">Lagrer <ns1:g example="10" id="numbers">%1$d</ns1:g> bilder</string>
+    <string name="dual_camera_lens_covered_toast">Linsetildekket.</string>
+    <string name="dual_camera_low_constract_toast">DårligkontrastkanpåvirkeDobbeltkamera-effekter.</string>
+    <string name="dual_camera_lowlight_toast">DårligelysforholdkanpåvirkeDobbeltkamera-effekter.</string>
+    <string name="dual_camera_too_close_toast">ObjekteterfornærttilåbrukeDobbeltkamera-effekter.</string>
+    <string name="long_exposure_abort">"Avbryt"</string>
+    <string name="long_exposure_guide_hint">Hold telefonen stabil når du har trykket lukkerknappen</string>
+    <string name="long_exposure_motion_title">Lang eksponering</string>
+    <string name="microphone_title">"Mikrofon"</string>
+    <string name="mode_fragment_title">Moduser</string>
+    <string name="noise_reduction_title">Støyreduksjon</string>
+    <string name="normal_mode_title">"Normal"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Flyttenhetentilåoverlappedetolinjene</string>
+    <string name="panorama_guide_choose_direction">Flyttenhetenmotopptaksretningen</string>
+    <string name="panorama_guide_shutter">Trykk på lukkeren for å begynne å ta opp panorama</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">"Automatisk"</string>
+    <string name="pref_camera_antibanding_entry_off">"Av"</string>
+    <string name="pref_camera_antibanding_title">Anti-risting</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Vann</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Tavle</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Blå fargetone</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Grønn fargetone</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Film </string>
+    <string name="pref_camera_coloreffect_entry_lofi">Flott  </string>
+    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Mosaikk</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Fersk </string>
+    <string name="pref_camera_coloreffect_entry_negative">Negativ</string>
+    <string name="pref_camera_coloreffect_entry_none">"Ingen"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Pastell</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Plakateffekt</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Rød fargetone</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sepia"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Sepia blå</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Sepia grønn</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegant</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Solariser</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Rolig </string>
+    <string name="pref_camera_coloreffect_entry_walden">"Kul"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Tavle</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Minne </string>
+    <string name="pref_camera_coloreffect_title">Fargeeffekt</string>
+    <string name="pref_camera_iso_entry_auto">"Automatisk"</string>
+    <string name="pref_camera_picturesize_title">"Bildestørrelse"</string>
+    <string name="pref_camera_scenemode_entry_action">"Action"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automatisk"</string>
+    <string name="pref_camera_scenemode_entry_beach">Strand</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Stearinlys</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Fyrverkeri</string>
+    <string name="pref_camera_scenemode_entry_landscape">Landskap</string>
+    <string name="pref_camera_scenemode_entry_night">"Natt"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Nattportrett</string>
+    <string name="pref_camera_scenemode_entry_off">"Av"</string>
+    <string name="pref_camera_scenemode_entry_party">"Fest"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Portrett</string>
+    <string name="pref_camera_scenemode_entry_snow">Snø</string>
+    <string name="pref_camera_scenemode_entry_sports">Sport</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Bildestabilisering</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Solnedgang"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Teater</string>
+    <string name="pref_camera_scenemode_title">"Velg scenemodus"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automatisk"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Overskyet"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Dagslys"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Lysstoffrør"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Flamme"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Skygge</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Glødelampe</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Skumring</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Varm fluorescerende</string>
+    <string name="pref_camera_whitebalance_title">"Hvitbalanse"</string>
+    <string name="pref_thermal_dialog_content">Enhetenstemperaturerforhøy,ogkameraetvilavslutteautomatiskom30sekunder.Ventlittmedåbrukedet.</string>
+    <string name="pref_thermal_dialog_content_launch">Enhetenstemperaturerforhøy.Ventlittmedåbrukekameraet.</string>
+    <string name="pref_thermal_dialog_title">Advarsel</string>
+    <string name="pref_thermal_preview_toast">Berør skjermen for å fortsette.</string>
+    <string name="saving_dialog_default_string">lagrer …</string>
+    <string name="sdof_mode_name">Stereo</string>
+    <string name="sdof_picture_size_title">"Bildestørrelse"</string>
+    <string name="sdof_video_quality_title">"Videokvalitet"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Søk"</string>
+    <string name="self_timer_entry_10">"10 sekunder"</string>
+    <string name="self_timer_entry_2">"2 sekunder"</string>
+    <string name="self_timer_entry_off">"Av"</string>
+    <string name="self_timer_title">Selvlukker</string>
+    <string name="setting_title">"Innstillinger"</string>
+    <string name="shutter_speed_entry_1">1 sekund</string>
+    <string name="shutter_speed_entry_16">16 sekunder</string>
+    <string name="shutter_speed_entry_2">"2 sekunder"</string>
+    <string name="shutter_speed_entry_4">"4 sekunder"</string>
+    <string name="shutter_speed_entry_8">"8 sekunder"</string>
+    <string name="shutter_speed_entry_auto">"Automatisk"</string>
+    <string name="shutter_speed_title">Lukkerhastighet</string>
+    <string name="shutter_type_photo">"Bilde"</string>
+    <string name="shutter_type_video">"Video"</string>
+    <string name="slow_motion_title">Saktefilm</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Standard lagringsområde er fullt. Frigjør plass, eller endre lagringsinnstillinger i innstillinger</string>
+    <string name="video_bad_performance_auto_stop">Lite minne. Stopper opptak automatisk.</string>
+    <string name="video_bad_performance_drop_quality">Lite minne. Endrer kvalitet automatisk.</string>
+    <string name="video_camera_label">"Video"</string>
+    <string name="video_quality_title">"Videokvalitet"</string>
+    <string name="video_reach_size_limit">"Videoen ble for stor."</string>
+    <string name="video_recording_error">Feil under innspillingen!</string>
+    <string name="video_recording_not_available">Stopp andre opptaksprogrammer før du bruker videokameraet.</string>
+</resources>

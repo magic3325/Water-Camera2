@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Негізгі бетте қозғалу"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Жоғары қозғалу"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Басқа опциялар"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Дайын"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Барлығын көру"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Қолданбаны таңдау"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ӨШІРУЛІ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ҚОСУЛЫ"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"бос орын"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Mәзір+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Іздеу…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Сұрақты жою"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Сұрақты іздеу"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Іздеу"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Сұрақты жіберу"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Дауыс арқылы іздеу"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Бөлісу"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> қолданбасымен бөлісу"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Тасалау"</string>
+    <string name="accessibility_mode">Камера режимі</string>
+    <string name="accessibility_setting">Параметр</string>
+    <string name="accessibility_shutter">Ысырма түйме</string>
+    <string name="accessibility_switch_to_panorama">Панорама режимі</string>
+    <string name="accessibility_thumbnail">Соңғы фотосуреттер</string>
+    <string name="aeaf_lock_indicator">АЭ/АФ құлпы</string>
+    <string name="ais_title">Тұрақтандыру</string>
+    <string name="asd_hdr_guide">HDR іске қосу фотосуреттің жақсырақ әсеріне әкеледі</string>
+    <string name="camera_label">Камера</string>
+    <string name="can_not_use_storage">SD картасы қолжетімсіз</string>
+    <string name="continuous_saving_pictures">Суреттер <ns1:g example="10" id="numbers">%1$d</ns1:g> сақталуда</string>
+    <string name="dual_camera_lens_covered_toast">Объективжабылған.</string>
+    <string name="dual_camera_low_constract_toast">Төменқысымқоскамераәсерлерінезиянкелтіруімүмкін.</string>
+    <string name="dual_camera_lowlight_toast">Төменжарықдеңгейіқоскамераәсерлерінзиянкелтіруімүмкін.</string>
+    <string name="dual_camera_too_close_toast">Қоскамераәсерлеріүшіннысанғажақындатыңыз.</string>
+    <string name="long_exposure_abort">"Доғару"</string>
+    <string name="long_exposure_guide_hint">Ысырма түймесін басқаннан кейін телефонды тұрақты ұстаңыз</string>
+    <string name="long_exposure_motion_title">Ұзақ экспозиция</string>
+    <string name="microphone_title">"Микрофон"</string>
+    <string name="mode_fragment_title">Режимдер</string>
+    <string name="noise_reduction_title">Шуды азайту</string>
+    <string name="normal_mode_title">"Қалыпты"</string>
+    <string name="pano_dialog_title">Панорама</string>
+    <string name="panorama_guide_capture">Құрылғыекіжолқабаттасуынажылжыту</string>
+    <string name="panorama_guide_choose_direction">Құрылғынытүсірубағытыбойыншажылжыту</string>
+    <string name="panorama_guide_shutter">Панораманы түсіруді бастау үшін ысырманы басыңыз</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 Гц</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 Гц</string>
+    <string name="pref_camera_antibanding_entry_auto">Авто</string>
+    <string name="pref_camera_antibanding_entry_off">Өшіру</string>
+    <string name="pref_camera_antibanding_title">Жыпылықтауға қарсы</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Аква</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Қара тақта</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Көк реңк</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Жасыл реңк</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Фильм</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Керемет</string>
+    <string name="pref_camera_coloreffect_entry_mono">Моно</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Мозаика</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Нашвилл</string>
+    <string name="pref_camera_coloreffect_entry_negative">Негатив</string>
+    <string name="pref_camera_coloreffect_entry_none">Жоқ</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Пастель</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Постер жасау</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Қызыл реңк</string>
+    <string name="pref_camera_coloreffect_entry_sepia">Сепия</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Сепия көк</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Сепия жасыл</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Күшті</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Күн сәулесі</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Тыныштық</string>
+    <string name="pref_camera_coloreffect_entry_walden">Адуынды</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Ақ тақта</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Жады</string>
+    <string name="pref_camera_coloreffect_title">Түс әсері</string>
+    <string name="pref_camera_iso_entry_auto">Авто</string>
+    <string name="pref_camera_picturesize_title">Сурет өлшемі</string>
+    <string name="pref_camera_scenemode_entry_action">Әрекет</string>
+    <string name="pref_camera_scenemode_entry_auto">Авто</string>
+    <string name="pref_camera_scenemode_entry_beach">Жағажай</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Шам жарығы</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Отшашу</string>
+    <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
+    <string name="pref_camera_scenemode_entry_night">Түн</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Түнгі портрет</string>
+    <string name="pref_camera_scenemode_entry_off">Өшіру</string>
+    <string name="pref_camera_scenemode_entry_party">Кеш</string>
+    <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
+    <string name="pref_camera_scenemode_entry_snow">Қар</string>
+    <string name="pref_camera_scenemode_entry_sports">Спорт</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Тұрақты фотосурет</string>
+    <string name="pref_camera_scenemode_entry_sunset">Күннің батуы</string>
+    <string name="pref_camera_scenemode_entry_theatre">Театр</string>
+    <string name="pref_camera_scenemode_title">Көрініс режимі</string>
+    <string name="pref_camera_whitebalance_entry_auto">Авто</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">Бұлтты</string>
+    <string name="pref_camera_whitebalance_entry_daylight">Күн жарығы</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">Флюоресценттік жарық</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">Жарқын</string>
+    <string name="pref_camera_whitebalance_entry_shade">Көлеңке</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Қыздырмалық шам</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Ымырт</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Жылы флуоресцент</string>
+    <string name="pref_camera_whitebalance_title">Ақ түс балансы</string>
+    <string name="pref_thermal_dialog_content">Құрылғытемпературасытымжоғары,камера30секундтанкейінавтоматтытүрдешығады.Кейінірекпайдаланыңыз.</string>
+    <string name="pref_thermal_dialog_content_launch">Құрылғытемпературасытымжоғары,камераныкейінірекпайдаланыңыз.</string>
+    <string name="pref_thermal_dialog_title">Ескерту</string>
+    <string name="pref_thermal_preview_toast">Жалғастыру үшін экранды түртіңіз.</string>
+    <string name="saving_dialog_default_string">сақталуда...</string>
+    <string name="sdof_mode_name">Стерео</string>
+    <string name="sdof_picture_size_title">Сурет өлшемі</string>
+    <string name="sdof_video_quality_title">Бейне сапасы</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Іздеу"</string>
+    <string name="self_timer_entry_10">10 секунд</string>
+    <string name="self_timer_entry_2">2 секунд</string>
+    <string name="self_timer_entry_off">Өшіру</string>
+    <string name="self_timer_title">Автоматты таймер</string>
+    <string name="setting_title">"Параметрлер"</string>
+    <string name="shutter_speed_entry_1">1 секунд</string>
+    <string name="shutter_speed_entry_16">16 секунд</string>
+    <string name="shutter_speed_entry_2">2 секунд</string>
+    <string name="shutter_speed_entry_4">"4 секунд"</string>
+    <string name="shutter_speed_entry_8">"8 секунд"</string>
+    <string name="shutter_speed_entry_auto">Авто</string>
+    <string name="shutter_speed_title">Ысырма жылдамдығы</string>
+    <string name="shutter_type_photo">Сурет</string>
+    <string name="shutter_type_video">"Видео"</string>
+    <string name="slow_motion_title">Баяу қозғалыс</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Әдепкі сақтау орны толық, шамалы орын босатыңыз неесе параметрлерден сақтау орны опцияларын басқарыңыз</string>
+    <string name="video_bad_performance_auto_stop">Жад аз, жазу автоматты түрде тоқтайды.</string>
+    <string name="video_bad_performance_drop_quality">Жад аз, сапа автоматты түрде өзгереді.</string>
+    <string name="video_camera_label">Бейнекамера</string>
+    <string name="video_quality_title">Бейне сапасы</string>
+    <string name="video_reach_size_limit">Өлшем шегіне жетті.</string>
+    <string name="video_recording_error">Жазу барысындағы қате!</string>
+    <string name="video_recording_not_available">Бейнекамераны пайдаланудан бұрын басқа жазатын қолданбаларды тоқтатыңыз.</string>
+</resources>

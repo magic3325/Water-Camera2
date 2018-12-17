@@ -1,0 +1,366 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/host/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+            "map": [
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/mode/panorama/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "13,16,15,17,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "747,1026,927,1085,823",
+                        "endColumns": "74,57,97,92,102",
+                        "endOffsets": "817,1079,1020,1173,921"
+                    },
+                    "to": {
+                        "startLines": "32,51,52,53,54",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "2975,4463,4521,4619,4712",
+                        "endColumns": "74,57,97,92,102",
+                        "endOffsets": "3045,4516,4614,4707,4810"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/mode/vsdof/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "5,6,4,3,2,8,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "340,416,230,114,57,599,530",
+                        "endColumns": "74,112,108,114,55,64,67",
+                        "endOffsets": "410,524,334,224,108,659,593"
+                    },
+                    "to": {
+                        "startLines": "40,41,42,43,118,119,120",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3585,3660,3773,3882,9718,9774,9839",
+                        "endColumns": "74,112,108,114,55,64,67",
+                        "endOffsets": "3655,3768,3877,3992,9769,9834,9902"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/mode/slowmotion/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "109",
+                        "endColumns": "54",
+                        "endOffsets": "159"
+                    },
+                    "to": {
+                        "startLines": "136",
+                        "startColumns": "4",
+                        "startOffsets": "10838",
+                        "endColumns": "54",
+                        "endOffsets": "10888"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/continuousshot/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "107",
+                        "endColumns": "123",
+                        "endOffsets": "226"
+                    },
+                    "to": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "3465",
+                        "endColumns": "119",
+                        "endOffsets": "3580"
+                    }
+                },
+                {
+                    "source": "/home/android/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bcb7c74e80ea975236615412a72ff348/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "137",
+                        "startColumns": "4",
+                        "startOffsets": "10893",
+                        "endColumns": "100",
+                        "endOffsets": "10989"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/scenemode/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "34,20,18,28,33,31,25,21,26,19,23,24,29,32,30,22,27,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2064,1024,871,1614,1982,1834,1386,1098,1458,948,1244,1315,1682,1911,1748,1165,1541,802",
+                        "endColumns": "104,73,76,67,81,76,71,66,82,75,70,70,65,70,85,78,72,68",
+                        "endOffsets": "2164,1093,943,1677,2059,1906,1453,1160,1536,1019,1310,1381,1743,1977,1829,1239,1609,866"
+                    },
+                    "to": {
+                        "startLines": "36,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3235,7141,7215,7292,7360,7442,7519,7591,7658,7741,7817,7888,7959,8025,8096,8182,8261,8334",
+                        "endColumns": "104,73,76,67,81,76,71,66,82,75,70,70,65,70,85,78,72,68",
+                        "endOffsets": "3335,7210,7287,7355,7437,7514,7586,7653,7736,7812,7883,7954,8020,8091,8177,8256,8329,8398"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/shutterspeed/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "4,8,5,6,7,3,2",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "189,442,250,314,378,119,57",
+                        "endColumns": "59,62,62,62,62,68,60",
+                        "endOffsets": "244,500,308,372,436,183,113"
+                    },
+                    "to": {
+                        "startLines": "127,128,129,130,131,132,133",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "10287,10347,10410,10473,10536,10599,10668",
+                        "endColumns": "59,62,62,62,62,68,60",
+                        "endOffsets": "10342,10405,10468,10531,10594,10663,10724"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/selftimer/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "20,19,18,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "986,926,861,802",
+                        "endColumns": "61,59,64,58",
+                        "endOffsets": "1043,981,921,856"
+                    },
+                    "to": {
+                        "startLines": "122,123,124,125",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "9987,10049,10109,10174",
+                        "endColumns": "61,59,64,58",
+                        "endOffsets": "10044,10104,10169,10228"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/microphone/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "56",
+                        "endOffsets": "786"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "4228",
+                        "endColumns": "56",
+                        "endOffsets": "4280"
+                    }
+                },
+                {
+                    "source": "/home/android/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/baf7d737b59aca53fe24131009a65bd4/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,313,414,500,605,723,810,892,983,1076,1172,1266,1361,1454,1550,1649,1740,1834,1914,2021,2124,2221,2327,2426,2530,2693,2792",
+                        "endColumns": "107,99,100,85,104,117,86,81,90,92,95,93,94,92,95,98,90,93,79,106,102,96,105,98,103,162,98,79",
+                        "endOffsets": "208,308,409,495,600,718,805,887,978,1071,1167,1261,1356,1449,1545,1644,1735,1829,1909,2016,2119,2216,2322,2421,2525,2688,2787,2867"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,121",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,313,414,500,605,723,810,892,983,1076,1172,1266,1361,1454,1550,1649,1740,1834,1914,2021,2124,2221,2327,2426,2530,2693,9907",
+                        "endColumns": "107,99,100,85,104,117,86,81,90,92,95,93,94,92,95,98,90,93,79,106,102,96,105,98,103,162,98,79",
+                        "endOffsets": "208,308,409,495,600,718,805,887,978,1071,1167,1261,1356,1449,1545,1644,1735,1829,1909,2016,2119,2216,2322,2421,2525,2688,2787,9982"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/antiflicker/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "20,21,18,19,17",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1032,1101,875,954,802",
+                        "endColumns": "68,68,78,77,72",
+                        "endOffsets": "1096,1165,949,1027,870"
+                    },
+                    "to": {
+                        "startLines": "55,56,57,58,59",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "4815,4884,4953,5032,5110",
+                        "endColumns": "68,68,78,77,72",
+                        "endOffsets": "4879,4948,5027,5105,5178"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/whitebalance/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "18,22,21,20,19,24,26,23,25,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "878,1218,1137,1048,958,1374,1539,1295,1445,802",
+                        "endColumns": "79,76,80,88,89,70,77,78,93,75",
+                        "endOffsets": "953,1290,1213,1132,1043,1440,1612,1369,1534,873"
+                    },
+                    "to": {
+                        "startLines": "103,104,105,106,107,108,109,110,111,112",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8403,8483,8560,8641,8730,8820,8891,8969,9048,9142",
+                        "endColumns": "79,76,80,88,89,70,77,78,93,75",
+                        "endOffsets": "8478,8555,8636,8725,8815,8886,8964,9043,9137,9213"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/matrixdisplay/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "26,25,30,31,35,38,19,28,34,21,18,27,23,29,20,32,33,39,22,36,40,24,37,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1478,1398,1781,1861,2181,2397,945,1626,2107,1086,872,1552,1240,1701,1013,1941,2024,2469,1163,2252,2544,1317,2325,802",
+                        "endColumns": "73,79,79,79,70,71,67,74,73,76,72,73,76,79,72,82,82,74,76,72,73,80,71,69",
+                        "endOffsets": "1547,1473,1856,1936,2247,2464,1008,1696,2176,1158,940,1621,1312,1776,1081,2019,2102,2539,1235,2320,2613,1393,2392,867"
+                    },
+                    "to": {
+                        "startLines": "60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5183,5257,5337,5417,5497,5568,5640,5708,5783,5857,5934,6007,6081,6158,6238,6311,6394,6477,6552,6629,6702,6776,6857,6929",
+                        "endColumns": "73,79,79,79,70,71,67,74,73,76,72,73,76,79,72,82,82,74,76,72,73,80,71,69",
+                        "endOffsets": "5252,5332,5412,5492,5563,5635,5703,5778,5852,5929,6002,6076,6153,6233,6306,6389,6472,6547,6624,6697,6771,6852,6924,6994"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/ais/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "49",
+                        "endOffsets": "779"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "3185",
+                        "endColumns": "49",
+                        "endOffsets": "3230"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/mode/longexposure/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "15,14,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "981,877,807",
+                        "endColumns": "58,102,68",
+                        "endOffsets": "1035,975,871"
+                    },
+                    "to": {
+                        "startLines": "44,45,46",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3997,4056,4159",
+                        "endColumns": "58,102,68",
+                        "endOffsets": "4051,4154,4223"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/picturesize/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "802",
+                        "endColumns": "70",
+                        "endOffsets": "868"
+                    },
+                    "to": {
+                        "startLines": "85",
+                        "startColumns": "4",
+                        "startOffsets": "7070",
+                        "endColumns": "70",
+                        "endOffsets": "7136"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/focus/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "61",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "3123",
+                        "endColumns": "61",
+                        "endOffsets": "3180"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/host/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "6,7,4,5,2,19,9,10,23,22,21,24,11,8,12,13,20,15,16,3,18,17,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "359,417,218,286,107,1326,528,582,1716,1599,1536,1879,639,474,712,766,1401,941,1052,157,1238,1161,821",
+                        "endColumns": "57,56,67,72,49,74,53,56,162,116,62,83,72,53,53,54,134,110,108,60,87,76,119",
+                        "endOffsets": "412,469,281,354,152,1396,577,634,1874,1711,1594,1958,707,523,761,816,1531,1047,1156,213,1321,1233,936"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,33,37,38,48,50,113,114,115,116,117,126,134,135,138,139,140,141,143,144,145",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2792,2850,2907,3050,3340,3390,4285,4406,9218,9381,9498,9561,9645,10233,10729,10783,10994,11129,11240,11349,11473,11561,11638",
+                        "endColumns": "57,56,67,72,49,74,53,56,162,116,62,83,72,53,53,54,134,110,108,60,87,76,119",
+                        "endOffsets": "2845,2902,2970,3118,3385,3460,4334,4458,9376,9493,9556,9640,9713,10282,10778,10833,11124,11235,11344,11405,11556,11633,11753"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/iso/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "802",
+                        "endColumns": "70",
+                        "endOffsets": "868"
+                    },
+                    "to": {
+                        "startLines": "84",
+                        "startColumns": "4",
+                        "startOffsets": "6999",
+                        "endColumns": "70",
+                        "endOffsets": "7065"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/videoquality/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "62",
+                        "endOffsets": "792"
+                    },
+                    "to": {
+                        "startLines": "142",
+                        "startColumns": "4",
+                        "startOffsets": "11410",
+                        "endColumns": "62",
+                        "endOffsets": "11468"
+                    }
+                },
+                {
+                    "source": "/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/setting/noisereduction/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "66",
+                        "endOffsets": "796"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "4339",
+                        "endColumns": "66",
+                        "endOffsets": "4401"
+                    }
+                }
+            ]
+        }
+    ]
+}

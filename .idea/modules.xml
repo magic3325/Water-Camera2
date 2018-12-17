@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Water-Camera2.iml" filepath="$PROJECT_DIR$/Water-Camera2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feature/feature_.iml" filepath="$PROJECT_DIR$/feature/feature_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/host/host.iml" filepath="$PROJECT_DIR$/host/host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feature/pluginroot/pluginroot.iml" filepath="$PROJECT_DIR$/feature/pluginroot/pluginroot.iml" />
+    </modules>
+  </component>
+</project>

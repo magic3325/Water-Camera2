@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Eiti į pagrindinį puslapį"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Eiti į viršų"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Daugiau parinkčių"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Atlikta"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Peržiūrėti viską"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pasirinkti programą"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IŠJUNGTA"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ĮJUNGTI"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"„Alt“ +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"„Ctrl“ +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"„Delete“"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"„Enter“"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"„Function“ +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"„Meta“ +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"„Shift“ +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"tarpo klavišas"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"„Sym“ +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"„Menu“ +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ieškoti..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Išvalyti užklausą"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Paieškos užklausa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Paieška"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pateikti užklausą"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Paieška balsu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bendrinti naudojant"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Bendrinti naudojant programą „<ns1:g id="APPLICATION_NAME">%s</ns1:g>“"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sutraukti"</string>
+    <string name="accessibility_mode">Kameros režimas</string>
+    <string name="accessibility_setting">Nustatymas</string>
+    <string name="accessibility_shutter">"Užrakto mygtukas"</string>
+    <string name="accessibility_switch_to_panorama">Panoraminis režimas</string>
+    <string name="accessibility_thumbnail">"Naujausia nuotrauka"</string>
+    <string name="aeaf_lock_indicator">AE / AF užraktas</string>
+    <string name="ais_title">Apsauga nuo sujudinimo</string>
+    <string name="asd_hdr_guide">Įjungus HDR, gali pagerėti nuotraukos efektas</string>
+    <string name="camera_label">"Fotoaparatas"</string>
+    <string name="can_not_use_storage">SD kortelė nepasiekiama</string>
+    <string name="continuous_saving_pictures">Išsaugojamos <ns1:g example="10" id="numbers">%1$d</ns1:g> nuotraukos</string>
+    <string name="dual_camera_lens_covered_toast">Uždengtasobjektyvas.</string>
+    <string name="dual_camera_low_constract_toast">Mažakontrastovertėgaliturėtiįtakosdvigubofotoaparatoefektams.</string>
+    <string name="dual_camera_lowlight_toast">Prastasapšvietimasgaliturėtiįtakosdvigubofotoaparatoefektams.</string>
+    <string name="dual_camera_too_close_toast">Perartiobjekto,todėlnegalimanaudotidvigubofotoaparatoefektų.</string>
+    <string name="long_exposure_abort">"Nutraukti"</string>
+    <string name="long_exposure_guide_hint">Stabiliai laikykite telefoną, paspaudę užrakto mygtuką.</string>
+    <string name="long_exposure_motion_title">Ilgas išlaikymas</string>
+    <string name="microphone_title">"Mikrofonas"</string>
+    <string name="mode_fragment_title">Režimai</string>
+    <string name="noise_reduction_title">Triukšmo mažinimas</string>
+    <string name="normal_mode_title">"Įprasta"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Judinkiteįrenginį,kadsutaptųdvilinijos</string>
+    <string name="panorama_guide_choose_direction">Perkelkiteįrenginįfiksavimokryptieslink</string>
+    <string name="panorama_guide_shutter">Paspauskite užraktą, kad būtų pradėta fiksuoti panorama</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">"Automatiškai"</string>
+    <string name="pref_camera_antibanding_entry_off">"Išjungta"</string>
+    <string name="pref_camera_antibanding_title">Apsauga nuo mirgėjimo</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Vandens spalvos</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Juoda lenta</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Mėlynas atspalvis</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Žalias atspalvis</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Filmas</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Žavus</string>
+    <string name="pref_camera_coloreffect_entry_mono">Monofoninis</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Mozaika</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Naujas</string>
+    <string name="pref_camera_coloreffect_entry_negative">Negatyvas</string>
+    <string name="pref_camera_coloreffect_entry_none">"Joks"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Pastelinis</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Reklaminis</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Raudonas atspalvis</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Tamsiai rusvas"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Rudai mėlynas</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Rudai žalias</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegantiškas</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Perlaikytas</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Ramus</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Kietas"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Balta lenta</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Atmintis</string>
+    <string name="pref_camera_coloreffect_title">Spalvos efektas</string>
+    <string name="pref_camera_iso_entry_auto">"Automatiškai"</string>
+    <string name="pref_camera_picturesize_title">"Paveikslėlio dydis"</string>
+    <string name="pref_camera_scenemode_entry_action">"Veiksmas"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automatiškai"</string>
+    <string name="pref_camera_scenemode_entry_beach">Paplūdimys</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Žvakių šviesa</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Fejerverkai</string>
+    <string name="pref_camera_scenemode_entry_landscape">Peizažas</string>
+    <string name="pref_camera_scenemode_entry_night">"Naktis"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Naktinis portretas</string>
+    <string name="pref_camera_scenemode_entry_off">"Išjungta"</string>
+    <string name="pref_camera_scenemode_entry_party">"Vakarėlis"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Portretas</string>
+    <string name="pref_camera_scenemode_entry_snow">Sniegas</string>
+    <string name="pref_camera_scenemode_entry_sports">Sportas</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Stabili nuotrauka</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Saulėlydis"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Teatras</string>
+    <string name="pref_camera_scenemode_title">"Scenų režimas"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automatiškai"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Debesuota"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Dienos šviesa"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescencinis"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Akinančiai skaistus"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Šešėliavimas</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Kaitrinis</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Prieblanda</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Šiltas fluorescencinis</string>
+    <string name="pref_camera_whitebalance_title">"Baltos spalvos balansas"</string>
+    <string name="pref_thermal_dialog_content">Įrenginysperdaugįkaitęs,todėlpo30sekundžiųfotoaparatasautomatiškaiišsijungs.Bandykitejįnaudotivėliau.</string>
+    <string name="pref_thermal_dialog_content_launch">Įrenginysperdaugįkaitęs,naudokitėsfotoaparatuvėliau.</string>
+    <string name="pref_thermal_dialog_title">Įspėjimas</string>
+    <string name="pref_thermal_preview_toast">Palieskite ekraną, kad tęstumėte.</string>
+    <string name="saving_dialog_default_string">Salvataggio in corso...</string>
+    <string name="sdof_mode_name">Stereofoninis</string>
+    <string name="sdof_picture_size_title">"Paveikslėlio dydis"</string>
+    <string name="sdof_video_quality_title">"Vaizdo įrašo kokybė"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Paieška"</string>
+    <string name="self_timer_entry_10">"10 sek."</string>
+    <string name="self_timer_entry_2">"2 sek."</string>
+    <string name="self_timer_entry_off">"Išjungta"</string>
+    <string name="self_timer_title">Laikmatis</string>
+    <string name="setting_title">"Nustatymai"</string>
+    <string name="shutter_speed_entry_1">1 sek.</string>
+    <string name="shutter_speed_entry_16">16 sek.</string>
+    <string name="shutter_speed_entry_2">"2 sek."</string>
+    <string name="shutter_speed_entry_4">"4 sek."</string>
+    <string name="shutter_speed_entry_8">"8 sek."</string>
+    <string name="shutter_speed_entry_auto">"Automatiškai"</string>
+    <string name="shutter_speed_title">Užrakto greitis</string>
+    <string name="shutter_type_photo">"Nuotrauka"</string>
+    <string name="shutter_type_video">"Vaizdoįrašas"</string>
+    <string name="slow_motion_title">Sulėtintai</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Numatytoji atmintis pilna; atlaisvinkite vietos arba pakeiskite atminties parinktis nustatymuose</string>
+    <string name="video_bad_performance_auto_stop">Trūksta atminties; automatinis įrašymo sustabdymas.</string>
+    <string name="video_bad_performance_drop_quality">Trūksta atminties; automatinis kokybės keitimas.</string>
+    <string name="video_camera_label">"Nešiojamoji vaizdo kamera ir magnetofonas"</string>
+    <string name="video_quality_title">"Vaizdo įrašo kokybė"</string>
+    <string name="video_reach_size_limit">"Pasiekta dydžio riba."</string>
+    <string name="video_recording_error">Įrašymo klaida!</string>
+    <string name="video_recording_not_available">Išjunkite kitas įrašymo programas prieš pradėdami naudoti vaizdo kamerą.</string>
+</resources>

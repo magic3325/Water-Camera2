@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYPNUTO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAPNUTO"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"mezerník"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Sdílet s aplikací <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="accessibility_mode">Režim kamery</string>
+    <string name="accessibility_setting">Nastavení</string>
+    <string name="accessibility_shutter">"Tlačítko závěrky"</string>
+    <string name="accessibility_switch_to_panorama">Panoramatický režim</string>
+    <string name="accessibility_thumbnail">"Poslední fotografie"</string>
+    <string name="aeaf_lock_indicator">Zámek AE/AF</string>
+    <string name="ais_title">Proti otřesům</string>
+    <string name="asd_hdr_guide">Zapnutí HDR může přinést lepší fotografický efekt</string>
+    <string name="camera_label">"Fotoaparát"</string>
+    <string name="can_not_use_storage">Karta SD není k dispozici</string>
+    <string name="continuous_saving_pictures">Ukládání  <ns1:g example="10" id="numbers">%1$d</ns1:g> snímků </string>
+    <string name="dual_camera_lens_covered_toast">Jezakrytýobjektiv.</string>
+    <string name="dual_camera_low_constract_toast">Nízkýkontrastmůžeomezitefektyduálníkamery.</string>
+    <string name="dual_camera_lowlight_toast">Slabéosvětlenímůžeomezitefektyduálníkamery.</string>
+    <string name="dual_camera_too_close_toast">Přílišblízkoobjektuproefektyduálníkamery.</string>
+    <string name="long_exposure_abort">"Přerušit"</string>
+    <string name="long_exposure_guide_hint">Po stisknutí tlačítka závěrky pevně držte telefon</string>
+    <string name="long_exposure_motion_title">Dlouhá expozice</string>
+    <string name="microphone_title">"Mikrofon"</string>
+    <string name="mode_fragment_title">Režimy</string>
+    <string name="noise_reduction_title">Potlačení šumu</string>
+    <string name="normal_mode_title">"Normální"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Posuňtezařízenítak,abysedvěčárypřekrývaly</string>
+    <string name="panorama_guide_choose_direction">Posuňtezařízenívesměruzachytávání</string>
+    <string name="panorama_guide_shutter">Stisknutím závěrky zahajte zachytávání panoramy</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">Automaticky</string>
+    <string name="pref_camera_antibanding_entry_off">"vypnuto"</string>
+    <string name="pref_camera_antibanding_title">Potlačení blikání</string>
+    <string name="pref_camera_coloreffect_entry_aqua">"Voda"</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Černá tabule</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">"Modrý nádech"</string>
+    <string name="pref_camera_coloreffect_entry_greentint">"Zelený nádech"</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Film</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Úžasný</string>
+    <string name="pref_camera_coloreffect_entry_mono">"Černobíle"</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">"Mozaika"</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Čerstvý</string>
+    <string name="pref_camera_coloreffect_entry_negative">"Negativ"</string>
+    <string name="pref_camera_coloreffect_entry_none">"Žádný"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">"Pastelové barvy"</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"Posterizace"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">"Červený nádech"</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sépiové barvy"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Modrá sépie</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Zelená sépie</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegantní</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Solarizace</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Klidný</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Cool"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Bílá tabule</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Paměť</string>
+    <string name="pref_camera_coloreffect_title">Barevný efekt</string>
+    <string name="pref_camera_iso_entry_auto">Automaticky</string>
+    <string name="pref_camera_picturesize_title">"Velikost fotografií"</string>
+    <string name="pref_camera_scenemode_entry_action">"Akce"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automaticky"</string>
+    <string name="pref_camera_scenemode_entry_beach">Pláž</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Světlo svíčky</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Ohňostroj</string>
+    <string name="pref_camera_scenemode_entry_landscape">Krajina</string>
+    <string name="pref_camera_scenemode_entry_night">"Noc"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Noční portrét</string>
+    <string name="pref_camera_scenemode_entry_off">"vypnuto"</string>
+    <string name="pref_camera_scenemode_entry_party">"Párty"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Portrét</string>
+    <string name="pref_camera_scenemode_entry_snow">Sníh</string>
+    <string name="pref_camera_scenemode_entry_sports">"Akce"</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Statická fotografie</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Západ slunce"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Divadlo</string>
+    <string name="pref_camera_scenemode_title">"Scénický režim"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automaticky"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Zataženo"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Denní světlo"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Zářivka"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Žárovka"</string>
+    <string name="pref_camera_whitebalance_entry_shade">"Stín"</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Žárovka</string>
+    <string name="pref_camera_whitebalance_entry_twilight">"Šero"</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">"Hřejivě světélkující"</string>
+    <string name="pref_camera_whitebalance_title">"Vyvážení bílé"</string>
+    <string name="pref_thermal_dialog_content">Teplotazařízeníjepřílišvysokáafotoaparátseza30sekundautomatickyukončí.Zkustejejpoužítpozději.</string>
+    <string name="pref_thermal_dialog_content_launch">Přílišvysokáteplotazařízení,použijtefotoaparátpozději.</string>
+    <string name="pref_thermal_dialog_title">Varování</string>
+    <string name="pref_thermal_preview_toast">Pro pokračování se dotkněte displeje. </string>
+    <string name="saving_dialog_default_string">Ukládání...</string>
+    <string name="sdof_mode_name">Stereo</string>
+    <string name="sdof_picture_size_title">"Velikost fotografií"</string>
+    <string name="sdof_video_quality_title">"Kvalita videa"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Hledat"</string>
+    <string name="self_timer_entry_10">10 sekund</string>
+    <string name="self_timer_entry_2">2 sekundy</string>
+    <string name="self_timer_entry_off">"Vypnout"</string>
+    <string name="self_timer_title">Samospoušť</string>
+    <string name="setting_title">"Nastavení"</string>
+    <string name="shutter_speed_entry_1">1 sekunda</string>
+    <string name="shutter_speed_entry_16">16 sekund</string>
+    <string name="shutter_speed_entry_2">"2 sekundy"</string>
+    <string name="shutter_speed_entry_4">"4 sekundy"</string>
+    <string name="shutter_speed_entry_8">"8 sekund"</string>
+    <string name="shutter_speed_entry_auto">"Automaticky"</string>
+    <string name="shutter_speed_title">Rychlost závěrky</string>
+    <string name="shutter_type_photo">"Obrázek"</string>
+    <string name="shutter_type_video">"Video"</string>
+    <string name="slow_motion_title">Zpomalený pohyb</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Výchozí úložiště je plné, prosím uvolněte část prostoru nebo upravte možnosti úložiště v nastavení</string>
+    <string name="video_bad_performance_auto_stop">Nedostatek paměti, automatické zastavení záznamu.</string>
+    <string name="video_bad_performance_drop_quality">Nedostatek paměti, automatická změna kvality.</string>
+    <string name="video_camera_label">"Videokamera"</string>
+    <string name="video_quality_title">"Kvalita videa"</string>
+    <string name="video_reach_size_limit">"Bylo dosaženo limitu velikosti."</string>
+    <string name="video_recording_error">Chyba během záznamu!</string>
+    <string name="video_recording_not_available">Před používáním videokamery zastavte ostatní záznamové aplikace.</string>
+</resources>

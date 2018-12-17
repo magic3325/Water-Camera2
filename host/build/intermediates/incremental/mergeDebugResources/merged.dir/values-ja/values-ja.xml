@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="accessibility_mode">カメラモード</string>
+    <string name="accessibility_setting">設定</string>
+    <string name="accessibility_shutter">"シャッターボタン"</string>
+    <string name="accessibility_switch_to_panorama">パノラマモード</string>
+    <string name="accessibility_thumbnail">"最近の写真"</string>
+    <string name="aeaf_lock_indicator">AE/AF ロック</string>
+    <string name="ais_title">手ブレ補正</string>
+    <string name="asd_hdr_guide">HDRをオンにすると、優れた写真効果を得られます</string>
+    <string name="camera_label">"カメラ"</string>
+    <string name="can_not_use_storage">SDカードが利用できません</string>
+    <string name="continuous_saving_pictures"> <ns1:g example="10" id="numbers">%1$d</ns1:g> 枚の写真を保存中</string>
+    <string name="dual_camera_lens_covered_toast">レンズが覆われています。</string>
+    <string name="dual_camera_low_constract_toast">低コントラストがデュアルカメラエフェクトに影響を与える可能性があります。</string>
+    <string name="dual_camera_lowlight_toast">低照度がデュアルカメラエフェクトに影響を与える可能性があります。</string>
+    <string name="dual_camera_too_close_toast">デュアルカメラエフェクトを使用するには、オブジェクトに近づき過ぎています。</string>
+    <string name="long_exposure_abort">"中止"</string>
+    <string name="long_exposure_guide_hint">シャッターボタンを押した後、携帯電話を安定させます</string>
+    <string name="long_exposure_motion_title">長時間露光</string>
+    <string name="microphone_title">"マイク"</string>
+    <string name="mode_fragment_title">モード</string>
+    <string name="noise_reduction_title">ノイズリダクション</string>
+    <string name="normal_mode_title">"標準"</string>
+    <string name="pano_dialog_title">"パノラマ"</string>
+    <string name="panorama_guide_capture">2つのレンズが重なるようにデバイスを移動します。</string>
+    <string name="panorama_guide_choose_direction">キャプチャー方向にデバイスを移動する</string>
+    <string name="panorama_guide_shutter">シャッターを押すとパノラマ撮影を開始します</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">"自動"</string>
+    <string name="pref_camera_antibanding_entry_off">"無効"</string>
+    <string name="pref_camera_antibanding_title">フリッカー防止</string>
+    <string name="pref_camera_coloreffect_entry_aqua">水彩</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">黒板</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">青みをつける</string>
+    <string name="pref_camera_coloreffect_entry_greentint">緑をつける</string>
+    <string name="pref_camera_coloreffect_entry_hefe">映画</string>
+    <string name="pref_camera_coloreffect_entry_lofi">ゴージャス</string>
+    <string name="pref_camera_coloreffect_entry_mono">モノ</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">モザイク</string>
+    <string name="pref_camera_coloreffect_entry_nashville">"ナッシュビル"</string>
+    <string name="pref_camera_coloreffect_entry_negative">"白黒反転"</string>
+    <string name="pref_camera_coloreffect_entry_none">"なし"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">パステル</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"ポスタライズ"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">赤みをつける</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"セピア"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">セピアブルー</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">セピアグリーン</string>
+    <string name="pref_camera_coloreffect_entry_sierra">エレガント</string>
+    <string name="pref_camera_coloreffect_entry_solarize">露出過度にする</string>
+    <string name="pref_camera_coloreffect_entry_valencia">控えめ</string>
+    <string name="pref_camera_coloreffect_entry_walden">クール</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">白板</string>
+    <string name="pref_camera_coloreffect_entry_xproll">メモリ</string>
+    <string name="pref_camera_coloreffect_title">色効果</string>
+    <string name="pref_camera_iso_entry_auto">"自動"</string>
+    <string name="pref_camera_picturesize_title">"表示サイズ"</string>
+    <string name="pref_camera_scenemode_entry_action">"スポーツ"</string>
+    <string name="pref_camera_scenemode_entry_auto">"オート"</string>
+    <string name="pref_camera_scenemode_entry_beach">ビーチ</string>
+    <string name="pref_camera_scenemode_entry_candlelight">ろうそく</string>
+    <string name="pref_camera_scenemode_entry_fireworks">花火</string>
+    <string name="pref_camera_scenemode_entry_landscape">"横向き"</string>
+    <string name="pref_camera_scenemode_entry_night">"夜景"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">夜間ポートレート</string>
+    <string name="pref_camera_scenemode_entry_off">"無効"</string>
+    <string name="pref_camera_scenemode_entry_party">"パーティー"</string>
+    <string name="pref_camera_scenemode_entry_portrait">"縦向き"</string>
+    <string name="pref_camera_scenemode_entry_snow">雪景色</string>
+    <string name="pref_camera_scenemode_entry_sports">スポーツ</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">安定撮影</string>
+    <string name="pref_camera_scenemode_entry_sunset">"夕焼け"</string>
+    <string name="pref_camera_scenemode_entry_theatre">劇場</string>
+    <string name="pref_camera_scenemode_title">"撮影モード"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"オート"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"曇り"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"昼光"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"蛍光灯"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"白熱灯"</string>
+    <string name="pref_camera_whitebalance_entry_shade">日陰</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">タングステン</string>
+    <string name="pref_camera_whitebalance_entry_twilight">たそがれ</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">温かな蛍光色</string>
+    <string name="pref_camera_whitebalance_title">"ホワイトバランス"</string>
+    <string name="pref_thermal_dialog_content">装置の温度が高すぎます。カメラは30秒後に自動的に終了します。後で使用してください。</string>
+    <string name="pref_thermal_dialog_content_launch">装置の温度が高すぎます。カメラは後で使用してください。</string>
+    <string name="pref_thermal_dialog_title">警告</string>
+    <string name="pref_thermal_preview_toast">画面にタッチして、継続します。</string>
+    <string name="saving_dialog_default_string">保存中…</string>
+    <string name="sdof_mode_name">ステレオ</string>
+    <string name="sdof_picture_size_title">"表示サイズ"</string>
+    <string name="sdof_video_quality_title">"動画の画質"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <string name="self_timer_entry_10">"10秒"</string>
+    <string name="self_timer_entry_2">"2秒"</string>
+    <string name="self_timer_entry_off">"OFF"</string>
+    <string name="self_timer_title">セルフタイマー</string>
+    <string name="setting_title">"設定"</string>
+    <string name="shutter_speed_entry_1">1秒</string>
+    <string name="shutter_speed_entry_16">16秒</string>
+    <string name="shutter_speed_entry_2">"2秒"</string>
+    <string name="shutter_speed_entry_4">"4秒"</string>
+    <string name="shutter_speed_entry_8">"8秒"</string>
+    <string name="shutter_speed_entry_auto">"オート"</string>
+    <string name="shutter_speed_title">シャッター速度</string>
+    <string name="shutter_type_photo">"画像"</string>
+    <string name="shutter_type_video">"動画"</string>
+    <string name="slow_motion_title">スローモーション</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">デフォルトのストレージがいっぱいです。容量の一部を解放するか、設定からストレージオプションを管理してください</string>
+    <string name="video_bad_performance_auto_stop">メモリ容量が不足しています。撮影を自動的に停止します。</string>
+    <string name="video_bad_performance_drop_quality">メモリ容量が不足しています。画質を自動的に切り替えます。</string>
+    <string name="video_camera_label">"ビデオ録画"</string>
+    <string name="video_quality_title">"動画の画質"</string>
+    <string name="video_reach_size_limit">"サイズ制限に達しました。"</string>
+    <string name="video_recording_error">録画中にエラーが発生しました。</string>
+    <string name="video_recording_not_available">ビデオカメラを使用する前に他の録画アプリを停止してください。</string>
+</resources>

@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:2:1-123:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/baf7d737b59aca53fe24131009a65bd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/b4efdc338d3a72bba813d7e640458d8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8bc4fcc76fa8fb9d2e8c84d0fd990415/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5dfd79fcba9c5a7e6151ee73d5b030b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/170e303d4511d4eb1a4183e2127fc7d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/aed7b3b4c7d34b2bb3af6b228092a9e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/981e54abb8c58a4a796a5503e6a86b33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9592cde9cd19610b3718fcb5c8b6bf2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ae043ec97dcc859bfc53d4a06fec87c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4169be91c1958b333114df49b82afde9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2edc4351bcb9c809a2f6699ab0a7dd35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/359c9821e477810a6e61cb14e38da80b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/81f14f54c7c0733383fdcdbee888fd67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b1319c69c53edaefc4f1db80a050391c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/075d83538605acf3d6ab57f089febafe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bcb7c74e80ea975236615412a72ff348/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc7faeb8729d8c1e55f5a594f018adcb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/cf13ed69a6829478d02ab2641ce26860/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b734dda18f938dad43cdd8bd21c342c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d8eec08d64f356b78dc97767b92dc4b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b67b9e3d2f506db7eec7d9ad31c37fec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d8d7f838476e3ca086aa9ce4fc77d539/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ba9f449bea48fcaf278aa4264943713e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/495ea114673960e2e02f961095c7ba5e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f4b02a72870c835670c23267400576b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8b5843035cb60c83a018347af773addf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49ca4ba0be96b37ba144ed8ad9967409/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:2:1-123:12
+	package
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:3:5-31
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:5:5-36
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:4:5-32
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_MTK_MMHW
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:14:22-71
+uses-permission#mediatek.permission.ACCESS_MTK_MMHW
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:15:22-72
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:16:22-75
+uses-permission#android.permission.SET_ANIMATION_SCALE
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:17:22-75
+supports-screens
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:19:5-23:40
+	android:largeScreens
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:21:9-36
+	android:smallScreens
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:23:9-37
+	android:normalScreens
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:22:9-37
+	android:anyDensity
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:20:9-34
+application
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:25:5-122:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bcb7c74e80ea975236615412a72ff348/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bcb7c74e80ea975236615412a72ff348/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc7faeb8729d8c1e55f5a594f018adcb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc7faeb8729d8c1e55f5a594f018adcb/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bcb7c74e80ea975236615412a72ff348/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:28:9-45
+	android:hardwareAccelerated
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:26:9-43
+	android:resizeableActivity
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:34:9-43
+	android:restoreAnyVersion
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:30:9-41
+	android:largeHeap
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:29:9-33
+	android:icon
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:27:9-50
+	android:theme
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:32:9-43
+	android:directBootAware
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:33:9-39
+activity#com.water.camera.CameraActivity
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:35:9-55:20
+	android:screenOrientation
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:38:13-49
+	android:clearTaskOnLaunch
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:37:13-45
+	android:label
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:40:13-49
+	android:launchMode
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:41:13-44
+	android:windowSoftInputMode
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:43:13-70
+	android:configChanges
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:39:13-153
+	android:taskAffinity
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:42:13-67
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:36:13-59
+intent-filter#action:name:android.media.action.STILL_IMAGE_CAMERA+category:name:android.intent.category.DEFAULT
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:44:13-47:29
+action#android.media.action.STILL_IMAGE_CAMERA
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:45:25-79
+category#android.intent.category.DEFAULT
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:46:27-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:49:25-66
+meta-data#com.android.keyguard.layout
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:52:13-54:62
+	android:resource
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:54:17-59
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:53:17-59
+activity-alias#com.water.camera.CameraLauncher
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:56:9-66:26
+	android:label
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:58:13-49
+	android:targetActivity
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:60:13-69
+	android:icon
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:57:13-54
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:59:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:61:13-65:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:64:27-74
+activity#com.water.camera.SecureCameraActivity
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:67:9-88:20
+	android:screenOrientation
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:70:17-53
+	android:clearTaskOnLaunch
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:69:17-49
+	android:label
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:74:17-53
+	android:excludeFromRecents
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:72:17-50
+	android:windowSoftInputMode
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:76:17-74
+	android:configChanges
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:71:17-78
+	android:icon
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:73:17-58
+	android:taskAffinity
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:68:17-69
+intent-filter#action:name:android.media.action.STILL_IMAGE_CAMERA_SECURE+category:name:android.intent.category.DEFAULT
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:77:13-80:29
+action#android.media.action.STILL_IMAGE_CAMERA_SECURE
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:78:17-89
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:78:25-86
+intent-filter#action:name:android.media.action.IMAGE_CAPTURE_SECURE+category:name:android.intent.category.DEFAULT
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:81:13-84:29
+action#android.media.action.IMAGE_CAPTURE_SECURE
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:82:17-84
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:82:25-81
+activity#com.water.camera.CaptureActivity
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:89:9-100:20
+	android:screenOrientation
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:91:17-53
+	android:label
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:93:17-53
+	android:windowSoftInputMode
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:94:17-74
+	android:visibleToInstantApps
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:95:17-52
+	android:configChanges
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:92:17-157
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:90:17-64
+intent-filter#action:name:android.media.action.IMAGE_CAPTURE+category:name:android.intent.category.DEFAULT
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:96:13-99:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:97:17-77
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:97:25-74
+activity-alias#com.water.camera.VideoCamera
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:101:9-115:26
+	android:screenOrientation
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:104:17-53
+	android:label
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:103:17-59
+	android:targetActivity
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:105:17-74
+	android:visibleToInstantApps
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:106:17-52
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:102:17-60
+intent-filter#action:name:android.media.action.VIDEO_CAMERA+category:name:android.intent.category.DEFAULT
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:107:13-110:29
+action#android.media.action.VIDEO_CAMERA
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:108:17-76
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:108:25-73
+intent-filter#action:name:android.media.action.VIDEO_CAPTURE+category:name:android.intent.category.DEFAULT
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:111:13-114:29
+action#android.media.action.VIDEO_CAPTURE
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:112:17-77
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:112:25-74
+receiver#com.water.camera.DisableCameraReceiver
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:116:9-120:20
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:116:19-72
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:117:13-119:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:118:17-79
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:118:25-76
+service#com.water.camera.CameraAppService
+ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:121:9-69
+	android:name
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml:121:18-66
+uses-sdk
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/baf7d737b59aca53fe24131009a65bd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/baf7d737b59aca53fe24131009a65bd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/b4efdc338d3a72bba813d7e640458d8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/b4efdc338d3a72bba813d7e640458d8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8bc4fcc76fa8fb9d2e8c84d0fd990415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8bc4fcc76fa8fb9d2e8c84d0fd990415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5dfd79fcba9c5a7e6151ee73d5b030b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5dfd79fcba9c5a7e6151ee73d5b030b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/170e303d4511d4eb1a4183e2127fc7d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/170e303d4511d4eb1a4183e2127fc7d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/aed7b3b4c7d34b2bb3af6b228092a9e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/aed7b3b4c7d34b2bb3af6b228092a9e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/981e54abb8c58a4a796a5503e6a86b33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/981e54abb8c58a4a796a5503e6a86b33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9592cde9cd19610b3718fcb5c8b6bf2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9592cde9cd19610b3718fcb5c8b6bf2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ae043ec97dcc859bfc53d4a06fec87c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ae043ec97dcc859bfc53d4a06fec87c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4169be91c1958b333114df49b82afde9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4169be91c1958b333114df49b82afde9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2edc4351bcb9c809a2f6699ab0a7dd35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2edc4351bcb9c809a2f6699ab0a7dd35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/359c9821e477810a6e61cb14e38da80b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/359c9821e477810a6e61cb14e38da80b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/81f14f54c7c0733383fdcdbee888fd67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/81f14f54c7c0733383fdcdbee888fd67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b1319c69c53edaefc4f1db80a050391c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b1319c69c53edaefc4f1db80a050391c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/075d83538605acf3d6ab57f089febafe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/075d83538605acf3d6ab57f089febafe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bcb7c74e80ea975236615412a72ff348/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bcb7c74e80ea975236615412a72ff348/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc7faeb8729d8c1e55f5a594f018adcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc7faeb8729d8c1e55f5a594f018adcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/cf13ed69a6829478d02ab2641ce26860/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/cf13ed69a6829478d02ab2641ce26860/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b734dda18f938dad43cdd8bd21c342c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b734dda18f938dad43cdd8bd21c342c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d8eec08d64f356b78dc97767b92dc4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d8eec08d64f356b78dc97767b92dc4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b67b9e3d2f506db7eec7d9ad31c37fec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b67b9e3d2f506db7eec7d9ad31c37fec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d8d7f838476e3ca086aa9ce4fc77d539/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d8d7f838476e3ca086aa9ce4fc77d539/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ba9f449bea48fcaf278aa4264943713e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ba9f449bea48fcaf278aa4264943713e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/495ea114673960e2e02f961095c7ba5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/android/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/495ea114673960e2e02f961095c7ba5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f4b02a72870c835670c23267400576b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f4b02a72870c835670c23267400576b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8b5843035cb60c83a018347af773addf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8b5843035cb60c83a018347af773addf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49ca4ba0be96b37ba144ed8ad9967409/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/android/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49ca4ba0be96b37ba144ed8ad9967409/AndroidManifest.xml:20:5-44
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+		ADDED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml
+		INJECTED from /home/android/workspace/AndroidStudioProjects/Water-Camera2/host/AndroidManifest.xml

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽主頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"顯示全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"刪除"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空白鍵"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="accessibility_mode">相機模式</string>
+    <string name="accessibility_setting">設定</string>
+    <string name="accessibility_shutter">"[快門] 按鈕"</string>
+    <string name="accessibility_switch_to_panorama">全景攝影模式</string>
+    <string name="accessibility_thumbnail">"最近的相片"</string>
+    <string name="aeaf_lock_indicator">AE/AF 鎖定</string>
+    <string name="ais_title">防震</string>
+    <string name="asd_hdr_guide">啟動HDR可得到更好的相片效果</string>
+    <string name="camera_label">"相機"</string>
+    <string name="can_not_use_storage">SD卡不可用</string>
+    <string name="continuous_saving_pictures">正在儲存 <ns1:g example="10" id="numbers">%1$d</ns1:g> 張相片</string>
+    <string name="dual_camera_lens_covered_toast">鏡頭被覆蓋。</string>
+    <string name="dual_camera_low_constract_toast">低對比可能影響雙鏡頭效果。</string>
+    <string name="dual_camera_lowlight_toast">低光可能影響雙鏡頭效果。</string>
+    <string name="dual_camera_too_close_toast">太靠近物件而不能使用雙鏡頭。</string>
+    <string name="long_exposure_abort">"終止"</string>
+    <string name="long_exposure_guide_hint">按下快門後請保持手機穩定</string>
+    <string name="long_exposure_motion_title">長時間曝光</string>
+    <string name="microphone_title">"咪高峰"</string>
+    <string name="mode_fragment_title">模式</string>
+    <string name="noise_reduction_title">雜訊抑制</string>
+    <string name="normal_mode_title">"標準"</string>
+    <string name="pano_dialog_title">"全景"</string>
+    <string name="panorama_guide_capture">移動裝置直到兩條線重疊</string>
+    <string name="panorama_guide_choose_direction">將裝置往捕捉的方向移動</string>
+    <string name="panorama_guide_shutter">按下快門開始拍攝全景相片</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">"自動"</string>
+    <string name="pref_camera_antibanding_entry_off">"已停用"</string>
+    <string name="pref_camera_antibanding_title">防搖晃</string>
+    <string name="pref_camera_coloreffect_entry_aqua">水族</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">黑板</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">藍色色調</string>
+    <string name="pref_camera_coloreffect_entry_greentint">淡綠色</string>
+    <string name="pref_camera_coloreffect_entry_hefe">"電影"</string>
+    <string name="pref_camera_coloreffect_entry_lofi">"艷麗"</string>
+    <string name="pref_camera_coloreffect_entry_mono">單聲道</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">馬賽克</string>
+    <string name="pref_camera_coloreffect_entry_nashville">"清新"</string>
+    <string name="pref_camera_coloreffect_entry_negative">負片效果</string>
+    <string name="pref_camera_coloreffect_entry_none">"無"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">蠟筆</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"色調分離"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">紅色色調</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"深褐色"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">棕褐藍</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">棕褐綠</string>
+    <string name="pref_camera_coloreffect_entry_sierra">"淡雅"</string>
+    <string name="pref_camera_coloreffect_entry_solarize">過度曝光</string>
+    <string name="pref_camera_coloreffect_entry_valencia">"沉靜"</string>
+    <string name="pref_camera_coloreffect_entry_walden">"冷酷"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">白板</string>
+    <string name="pref_camera_coloreffect_entry_xproll">"懷舊"</string>
+    <string name="pref_camera_coloreffect_title">色彩效果</string>
+    <string name="pref_camera_iso_entry_auto">"自動"</string>
+    <string name="pref_camera_picturesize_title">"相片大小"</string>
+    <string name="pref_camera_scenemode_entry_action">"動作"</string>
+    <string name="pref_camera_scenemode_entry_auto">"自動"</string>
+    <string name="pref_camera_scenemode_entry_beach">沙灘</string>
+    <string name="pref_camera_scenemode_entry_candlelight">燭光</string>
+    <string name="pref_camera_scenemode_entry_fireworks">煙花</string>
+    <string name="pref_camera_scenemode_entry_landscape">"橫向"</string>
+    <string name="pref_camera_scenemode_entry_night">"夜景"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">夜間人像</string>
+    <string name="pref_camera_scenemode_entry_off">"已停用"</string>
+    <string name="pref_camera_scenemode_entry_party">"派對"</string>
+    <string name="pref_camera_scenemode_entry_portrait">"直向"</string>
+    <string name="pref_camera_scenemode_entry_snow">雪景</string>
+    <string name="pref_camera_scenemode_entry_sports">運動</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">防震</string>
+    <string name="pref_camera_scenemode_entry_sunset">"日落"</string>
+    <string name="pref_camera_scenemode_entry_theatre">劇院</string>
+    <string name="pref_camera_scenemode_title">"場景模式"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"自動"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"陰天"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"日光"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"光管"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"鎢絲燈"</string>
+    <string name="pref_camera_whitebalance_entry_shade">陰影</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">鎢絲燈</string>
+    <string name="pref_camera_whitebalance_entry_twilight">暮色</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">暖熒光</string>
+    <string name="pref_camera_whitebalance_title">"白平衡"</string>
+    <string name="pref_thermal_dialog_content">裝置溫度過高而相機將於30秒後自動退出。請稍後再使用。</string>
+    <string name="pref_thermal_dialog_content_launch">裝置溫度過高，請稍後使用相機。</string>
+    <string name="pref_thermal_dialog_title">警告</string>
+    <string name="pref_thermal_preview_toast">點擊螢幕以繼續</string>
+    <string name="saving_dialog_default_string">儲存中...</string>
+    <string name="sdof_mode_name">景深</string>
+    <string name="sdof_picture_size_title">"相片大小"</string>
+    <string name="sdof_video_quality_title">"影片品質"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string name="self_timer_entry_10">"10 秒"</string>
+    <string name="self_timer_entry_2">"2 秒"</string>
+    <string name="self_timer_entry_off">"關閉"</string>
+    <string name="self_timer_title">拍攝計時器</string>
+    <string name="setting_title">設定</string>
+    <string name="shutter_speed_entry_1">1秒</string>
+    <string name="shutter_speed_entry_16">16秒</string>
+    <string name="shutter_speed_entry_2">"2 秒"</string>
+    <string name="shutter_speed_entry_4">"4 秒"</string>
+    <string name="shutter_speed_entry_8">"8 秒"</string>
+    <string name="shutter_speed_entry_auto">"自動"</string>
+    <string name="shutter_speed_title">快門時間</string>
+    <string name="shutter_type_photo">"拍照"</string>
+    <string name="shutter_type_video">"錄影"</string>
+    <string name="slow_motion_title">慢動作</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">默認儲存空間已滿，請釋放部份空間或於設定中管理儲存選項</string>
+    <string name="video_bad_performance_auto_stop">儲存空間不足，自動停止錄影。</string>
+    <string name="video_bad_performance_drop_quality">儲存空間不足，自動變更影像品質。</string>
+    <string name="video_camera_label">"攝錄機"</string>
+    <string name="video_quality_title">"影片品質"</string>
+    <string name="video_reach_size_limit">"已達大小上限。"</string>
+    <string name="video_recording_error">錄影期間出錯！</string>
+    <string name="video_recording_not_available">使用錄影機前請停止其他錄影應用程式</string>
+</resources>

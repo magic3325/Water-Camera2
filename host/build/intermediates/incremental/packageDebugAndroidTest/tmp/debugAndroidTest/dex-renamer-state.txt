@@ -1,0 +1,7 @@
+#Mon Dec 17 10:04:24 CST 2018
+base.0=/home/android/workspace/AndroidStudioProjects/Water-Camera2/host/build/intermediates/transforms/dexMerger/androidTest/debug/1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/android/workspace/AndroidStudioProjects/Water-Camera2/host/build/intermediates/transforms/dexMerger/androidTest/debug/0

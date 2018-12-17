@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Dec 17 10:04:19 CST 2018
+0.baseType=DIRECTORY
+0.base=/home/android/workspace/AndroidStudioProjects/Water-Camera2/feature/pluginroot/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

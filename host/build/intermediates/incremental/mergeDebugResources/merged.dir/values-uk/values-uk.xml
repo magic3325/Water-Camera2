@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на головний"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Інші опції"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Переглянути всі"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ВИМК."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"УВІМК."</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"пробіл"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Пошук…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Надіслати запит"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Надіслати через"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Поділитися через додаток <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <string name="accessibility_mode">Режим камери</string>
+    <string name="accessibility_setting">Налаштування</string>
+    <string name="accessibility_shutter">"Кнопка \"Витримка\""</string>
+    <string name="accessibility_switch_to_panorama">Режим панорами</string>
+    <string name="accessibility_thumbnail">"Останні фото"</string>
+    <string name="aeaf_lock_indicator">Блокування АЕ/AF</string>
+    <string name="ais_title">Антиструс</string>
+    <string name="asd_hdr_guide">Увімкнене HDR може покращити фото</string>
+    <string name="camera_label">"Камера"</string>
+    <string name="can_not_use_storage">Недоступна SD Card</string>
+    <string name="continuous_saving_pictures">Збереження <ns1:g example="10" id="numbers">%1$d</ns1:g> зображень</string>
+    <string name="dual_camera_lens_covered_toast">"Об'єктивзакритий."</string>
+    <string name="dual_camera_low_constract_toast">НизькийконтрастможевплинутинаЕфектиподвійноїкамери.</string>
+    <string name="dual_camera_lowlight_toast">ТьмянеосвітленняможевплинутинаЕфектиподвійноїкамери.</string>
+    <string name="dual_camera_too_close_toast">НадтоблизькодопредметадляЕфектівподвійноїкамери.</string>
+    <string name="long_exposure_abort">"Припинити"</string>
+    <string name="long_exposure_guide_hint">"Натисніть кнопку об'єктива і тримайте пристрій рівно"</string>
+    <string name="long_exposure_motion_title">Довга витримка</string>
+    <string name="microphone_title">"Мікрофон"</string>
+    <string name="mode_fragment_title">Режими</string>
+    <string name="noise_reduction_title">Зменшення шумів</string>
+    <string name="normal_mode_title">"Нормальний"</string>
+    <string name="pano_dialog_title">"Панорама"</string>
+    <string name="panorama_guide_capture">Перемістітьпристрій,щобдвілініїнакладалися.</string>
+    <string name="panorama_guide_choose_direction">Пересувайтепристрійунапрямкуфокусузйомки.</string>
+    <string name="panorama_guide_shutter">Натисніть спуск, щоб почати зйомку панорами</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 Гц</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 Гц</string>
+    <string name="pref_camera_antibanding_entry_auto">"Автом."</string>
+    <string name="pref_camera_antibanding_entry_off">"Вимк."</string>
+    <string name="pref_camera_antibanding_title">Проти мерехтіння</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Аква</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Чорна дошка</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Блакитний відтінок</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Зелений відтінок</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Кіно</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Ефектне</string>
+    <string name="pref_camera_coloreffect_entry_mono">Моно</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Мозаїка</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Свіже</string>
+    <string name="pref_camera_coloreffect_entry_negative">Негатив</string>
+    <string name="pref_camera_coloreffect_entry_none">"Нічого"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Пастель</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Ефект плаката</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Червоний відтінок</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Сепія"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Блакитна сепія</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Зелена сепія</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Елегантне</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Перетримано</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Спокійне</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Круто"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Біла дошка</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Пам’ять</string>
+    <string name="pref_camera_coloreffect_title">Кольоровий ефект</string>
+    <string name="pref_camera_iso_entry_auto">"Автом."</string>
+    <string name="pref_camera_picturesize_title">"Розмір фото"</string>
+    <string name="pref_camera_scenemode_entry_action">"Спорт"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Автом."</string>
+    <string name="pref_camera_scenemode_entry_beach">Пляж</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Світло свічки</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Феєрверки</string>
+    <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
+    <string name="pref_camera_scenemode_entry_night">"Ніч"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Нічний портрет</string>
+    <string name="pref_camera_scenemode_entry_off">"Вимк."</string>
+    <string name="pref_camera_scenemode_entry_party">"У приміщенні"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
+    <string name="pref_camera_scenemode_entry_snow">Сніг</string>
+    <string name="pref_camera_scenemode_entry_sports">Спорт</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Непорушне фото</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Захід сонця"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Театр</string>
+    <string name="pref_camera_scenemode_title">"Режим зйомки"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Автом."</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Хмарно"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Сонячно"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Флуоресцентний"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Лампа розжар."</string>
+    <string name="pref_camera_whitebalance_entry_shade">Тінь</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Лампочка розжарювання</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Сутінки</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Тепле люмінісцентне</string>
+    <string name="pref_camera_whitebalance_title">"Баланс білого"</string>
+    <string name="pref_thermal_dialog_content">Температурапристроюнадтовисока,камераавтоматичновимкнетьсячерез30сек..Спробуйтескористуватисянеюпізніше.</string>
+    <string name="pref_thermal_dialog_content_launch">Температурапристроюнадтовисока.Користуйтесякамероюпізніше.</string>
+    <string name="pref_thermal_dialog_title">Попередження</string>
+    <string name="pref_thermal_preview_toast">Торкніться екрану, щоб продовжити.</string>
+    <string name="saving_dialog_default_string">збереження...</string>
+    <string name="sdof_mode_name">Стерео</string>
+    <string name="sdof_picture_size_title">"Розмір фото"</string>
+    <string name="sdof_video_quality_title">"Якість відео"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
+    <string name="self_timer_entry_10">"10 сек."</string>
+    <string name="self_timer_entry_2">"2 сек."</string>
+    <string name="self_timer_entry_off">"Вимк."</string>
+    <string name="self_timer_title">Автоспуск</string>
+    <string name="setting_title">"Налаштування"</string>
+    <string name="shutter_speed_entry_1">1 секунда</string>
+    <string name="shutter_speed_entry_16">16 секунд</string>
+    <string name="shutter_speed_entry_2">"2 секунди"</string>
+    <string name="shutter_speed_entry_4">"4 секунди"</string>
+    <string name="shutter_speed_entry_8">"8 сек."</string>
+    <string name="shutter_speed_entry_auto">"Автом."</string>
+    <string name="shutter_speed_title">Швидкість затвору</string>
+    <string name="shutter_type_photo">"Зображення"</string>
+    <string name="shutter_type_video">"Відео"</string>
+    <string name="slow_motion_title">Уповільнений рух</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">"Пам'ять за замовчуванням заповнена. Звільніть місце або керуйте опціями пам'яті в налаштуваннях"</string>
+    <string name="video_bad_performance_auto_stop">"Мало пам'яті, автозупинка запису."</string>
+    <string name="video_bad_performance_drop_quality">"Мало пам'яті, автозміна якості."</string>
+    <string name="video_camera_label">"Відеокамера"</string>
+    <string name="video_quality_title">"Якість відео"</string>
+    <string name="video_reach_size_limit">"Досягн. макс. розмір."</string>
+    <string name="video_recording_error">Помилка під час запису!</string>
+    <string name="video_recording_not_available">Будь ласка, зупиніть інші застосунки запису перед користуванням відеокамерою.</string>
+</resources>

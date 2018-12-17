@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="accessibility_mode">Kameramód</string>
+    <string name="accessibility_setting">Beállítás</string>
+    <string name="accessibility_shutter">"Exponáló gomb"</string>
+    <string name="accessibility_switch_to_panorama">Panoráma mód</string>
+    <string name="accessibility_thumbnail">"Legutóbbi fotó"</string>
+    <string name="aeaf_lock_indicator">AE/AF zár</string>
+    <string name="ais_title">Képstabilizátor</string>
+    <string name="asd_hdr_guide">A HDR bekapcsolásával jobb hatású fotót készíthet</string>
+    <string name="camera_label">"Kamera"</string>
+    <string name="can_not_use_storage">Az SD kártya nem elérhető</string>
+    <string name="continuous_saving_pictures">  <ns1:g example="10" id="numbers">%1$d</ns1:g> kép mentése </string>
+    <string name="dual_camera_lens_covered_toast">Azobjektívlevanzárva.</string>
+    <string name="dual_camera_low_constract_toast">Agyengekontraszthatássallehetakettőskameraeffektusokra.</string>
+    <string name="dual_camera_lowlight_toast">Agyengefényviszonyokhatássallehetnekakettőskameraeffektusokra.</string>
+    <string name="dual_camera_too_close_toast">Túlközelvanazobjektumhozakettőskameraeffektusoknál.</string>
+    <string name="long_exposure_abort">Megszakítás</string>
+    <string name="long_exposure_guide_hint">Tartsa a telefont stabilan miután megnyomta a kioldógombot</string>
+    <string name="long_exposure_motion_title">Hosszú expozíció</string>
+    <string name="microphone_title">"Mikrofon"</string>
+    <string name="mode_fragment_title">Módok</string>
+    <string name="noise_reduction_title">Zajcsökkentés</string>
+    <string name="normal_mode_title">"Normál"</string>
+    <string name="pano_dialog_title">"Panoráma"</string>
+    <string name="panorama_guide_capture">Mozgassaakészüléketakétvonalátfedéséhez</string>
+    <string name="panorama_guide_choose_direction">Mozgassaakészüléketafelvételirányába</string>
+    <string name="panorama_guide_shutter">Nyomja meg az exponáló gombot a panorámakép elkészítéséhez.</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">Auto.</string>
+    <string name="pref_camera_antibanding_entry_off">"kikapcsolva"</string>
+    <string name="pref_camera_antibanding_title">Villódzásgátló</string>
+    <string name="pref_camera_coloreffect_entry_aqua">"Vízszínű"</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Fekete tábla</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">"Kék árnyalatú"</string>
+    <string name="pref_camera_coloreffect_entry_greentint">"Zöld árnyalatú"</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Film</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Gyönyörű</string>
+    <string name="pref_camera_coloreffect_entry_mono">"Fekete-fehér"</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">"Mozaik"</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Friss</string>
+    <string name="pref_camera_coloreffect_entry_negative">"Negatív"</string>
+    <string name="pref_camera_coloreffect_entry_none">"Nincs"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">"Pasztell"</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"Poszterizált"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">"Piros árnyalatú"</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Szépia"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Szépia kék</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Szépia zöld</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegáns</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Szolarizálás</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Nyugodt</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Laza"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Fehér tábla</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Emlék</string>
+    <string name="pref_camera_coloreffect_title">Színhatás</string>
+    <string name="pref_camera_iso_entry_auto">Auto.</string>
+    <string name="pref_camera_picturesize_title">"Képméret"</string>
+    <string name="pref_camera_scenemode_entry_action">"Akció"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automatikus"</string>
+    <string name="pref_camera_scenemode_entry_beach">Tengerpart</string>
+    <string name="pref_camera_scenemode_entry_candlelight">"Gyertyafény"</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Tűzijáték</string>
+    <string name="pref_camera_scenemode_entry_landscape">Fekvő</string>
+    <string name="pref_camera_scenemode_entry_night">"Éjszakai"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Éjszakai portré</string>
+    <string name="pref_camera_scenemode_entry_off">"kikapcsolva"</string>
+    <string name="pref_camera_scenemode_entry_party">"Buli"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Álló</string>
+    <string name="pref_camera_scenemode_entry_snow">Hó</string>
+    <string name="pref_camera_scenemode_entry_sports">"Tevékenység"</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Stabil kép</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Napnyugta"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Színház</string>
+    <string name="pref_camera_scenemode_title">"Kép jellege"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automatikus"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Felhős"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Nappali fény"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Fénycső"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Izzólámpa"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Árnyék</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Izzófény</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Szürkület</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Meleg fénycső</string>
+    <string name="pref_camera_whitebalance_title">"Fehéregyensúly"</string>
+    <string name="pref_thermal_dialog_content">Akészülékhőmérsékletetúlmagas,ezértakamera30másodpercmúlvaautomatikusanleáll.Kérjük,használjakésőbbakamerát.</string>
+    <string name="pref_thermal_dialog_content_launch">Akészülékhőmérsékletetúlmagas.Kérjük,használjakésőbbakamerát.</string>
+    <string name="pref_thermal_dialog_title">Figyelmeztetés</string>
+    <string name="pref_thermal_preview_toast">Érintse meg a képernyőt a folytatáshoz.</string>
+    <string name="saving_dialog_default_string">Mentés...</string>
+    <string name="sdof_mode_name">Térmélység</string>
+    <string name="sdof_picture_size_title">"Képméret"</string>
+    <string name="sdof_video_quality_title">"Videó minősége"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string name="self_timer_entry_10">10 másodperc</string>
+    <string name="self_timer_entry_2">2 másodperc</string>
+    <string name="self_timer_entry_off">"Ki"</string>
+    <string name="self_timer_title">Önkioldó</string>
+    <string name="setting_title">"Beállítások"</string>
+    <string name="shutter_speed_entry_1">1 másodperc</string>
+    <string name="shutter_speed_entry_16">16 másodperc</string>
+    <string name="shutter_speed_entry_2">"2 másodperc"</string>
+    <string name="shutter_speed_entry_4">"4 másodperc"</string>
+    <string name="shutter_speed_entry_8">"8 másodperc"</string>
+    <string name="shutter_speed_entry_auto">"Automatikus"</string>
+    <string name="shutter_speed_title">Zársebesség</string>
+    <string name="shutter_type_photo">"Kép"</string>
+    <string name="shutter_type_video">"Videó"</string>
+    <string name="slow_motion_title">Lassított felvétel</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Az alapértelmezett tárhely megtelt. Kérjük, szabadítson fel helyet vagy használja a tárhelyopciók beállításokat.</string>
+    <string name="video_bad_performance_auto_stop">Kevés memória, rögzítés automatikusan leáll.</string>
+    <string name="video_bad_performance_drop_quality">Kevés memória, automatikus minőségváltás.</string>
+    <string name="video_camera_label">"Videokamera"</string>
+    <string name="video_quality_title">"Videó minősége"</string>
+    <string name="video_reach_size_limit">"A videó elérte a méretkorlátot."</string>
+    <string name="video_recording_error">Hiba történt felvétel közben!</string>
+    <string name="video_recording_not_available">Kérjük, állítsa le a többi rögzítő alkalmazást a videokamera használata előtt.</string>
+</resources>

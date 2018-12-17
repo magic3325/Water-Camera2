@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर जाएं"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"बंद"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"चालू"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोजा जा रहा है…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"सर्च करें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"आवाज़ सर्च"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके साथ शेयर करें"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> के साथ शेयर करें"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string name="accessibility_mode">कैमरा मोड</string>
+    <string name="accessibility_setting">सेटिंग</string>
+    <string name="accessibility_shutter">"शटर बटन"</string>
+    <string name="accessibility_switch_to_panorama">पैनोरमा मोड</string>
+    <string name="accessibility_thumbnail">"हाल ही का फ़ोटो"</string>
+    <string name="aeaf_lock_indicator">AE/AF लॉक</string>
+    <string name="ais_title">कंपन-रोधी</string>
+    <string name="asd_hdr_guide">HDR चालू करने से बेहतर फ़ोटो प्रभाव प्राप्त हो सकता है</string>
+    <string name="camera_label">"कैमरा"</string>
+    <string name="can_not_use_storage">SD कार्ड उपलब्ध नहीं है</string>
+    <string name="continuous_saving_pictures">  <ns1:g example="10" id="numbers">%1$d</ns1:g> चित्रों को सहेजा जा रहा है </string>
+    <string name="dual_camera_lens_covered_toast">लेंसढकाहै।</string>
+    <string name="dual_camera_low_constract_toast">कमकंट्रास्टयुगलकैमराप्रभावोंकोप्रभावितकरसकताहै।</string>
+    <string name="dual_camera_lowlight_toast">कमरोशनीयुगलकैमराप्रभावोंकोप्रभावितकरसकतीहै।</string>
+    <string name="dual_camera_too_close_toast">युगलकैमराप्रभावोंकेलिएवस्तुकेबहुतनिकटहै।</string>
+    <string name="long_exposure_abort">"समाप्त करें"</string>
+    <string name="long_exposure_guide_hint">शटर बटन दबाने के बाद फ़ोन को स्थिर रखें</string>
+    <string name="long_exposure_motion_title">लंबा एक्सपोज़र</string>
+    <string name="microphone_title">"माइक्रोफ़ोन"</string>
+    <string name="mode_fragment_title">मोड</string>
+    <string name="noise_reduction_title">शोर में कमी</string>
+    <string name="normal_mode_title">"सामान्य"</string>
+    <string name="pano_dialog_title">"पैनोरामा"</string>
+    <string name="panorama_guide_capture">दोरेखाओंकोओवरलैपकरनेकेलिएउपकरणहिलाएँ</string>
+    <string name="panorama_guide_choose_direction">उपकरणकोकैप्चरकरनेकीदिशामेंलेजाएँ</string>
+    <string name="panorama_guide_shutter">पैनोरामा कैप्चर आरंभ करने के लिए शटर दबाएँ</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 हटर्ज़</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 हटर्ज़</string>
+    <string name="pref_camera_antibanding_entry_auto">स्वचालित</string>
+    <string name="pref_camera_antibanding_entry_off">"बंद"</string>
+    <string name="pref_camera_antibanding_title">एंटी-फ्लिकर</string>
+    <string name="pref_camera_coloreffect_entry_aqua">जल संबंधी</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">श्यामपट</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">ब्‍ल्‍यू टिंट</string>
+    <string name="pref_camera_coloreffect_entry_greentint">ग्रीन टिंट</string>
+    <string name="pref_camera_coloreffect_entry_hefe">मूवी</string>
+    <string name="pref_camera_coloreffect_entry_lofi">शानदार</string>
+    <string name="pref_camera_coloreffect_entry_mono">मोनो</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">मोसेक</string>
+    <string name="pref_camera_coloreffect_entry_nashville">ताज़ा</string>
+    <string name="pref_camera_coloreffect_entry_negative">नेगेटिव</string>
+    <string name="pref_camera_coloreffect_entry_none">"कोई नहीं"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">हल्‍का रंग</string>
+    <string name="pref_camera_coloreffect_entry_posterize">पोस्‍टरनुमा</string>
+    <string name="pref_camera_coloreffect_entry_redtint">रेड टिंट</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"सेपिया"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">सेपिया ब्‍ल्‍यू</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">सेपिया ग्रीन</string>
+    <string name="pref_camera_coloreffect_entry_sierra">मनोहर</string>
+    <string name="pref_camera_coloreffect_entry_solarize">बेहद चमकीला</string>
+    <string name="pref_camera_coloreffect_entry_valencia">शांत</string>
+    <string name="pref_camera_coloreffect_entry_walden">"बिंदास"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">व्‍हाइटबोर्ड</string>
+    <string name="pref_camera_coloreffect_entry_xproll">स्मृति</string>
+    <string name="pref_camera_coloreffect_title">रंग प्रभाव</string>
+    <string name="pref_camera_iso_entry_auto">स्वचालित</string>
+    <string name="pref_camera_picturesize_title">"चित्र आकार"</string>
+    <string name="pref_camera_scenemode_entry_action">"कार्यवाही"</string>
+    <string name="pref_camera_scenemode_entry_auto">"स्वत:"</string>
+    <string name="pref_camera_scenemode_entry_beach">समुद्र तट</string>
+    <string name="pref_camera_scenemode_entry_candlelight">कैंडल लाइट</string>
+    <string name="pref_camera_scenemode_entry_fireworks">आतिशबाजी</string>
+    <string name="pref_camera_scenemode_entry_landscape">लैंडस्कैप</string>
+    <string name="pref_camera_scenemode_entry_night">"रात्रि"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">रात्रि पोर्ट्रेट</string>
+    <string name="pref_camera_scenemode_entry_off">"बंद"</string>
+    <string name="pref_camera_scenemode_entry_party">"पार्टी"</string>
+    <string name="pref_camera_scenemode_entry_portrait">पोर्ट्रेट</string>
+    <string name="pref_camera_scenemode_entry_snow">बर्फ</string>
+    <string name="pref_camera_scenemode_entry_sports">"कार्यवाही"</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">स्थिर फ़ोटो</string>
+    <string name="pref_camera_scenemode_entry_sunset">"सूर्यास्त"</string>
+    <string name="pref_camera_scenemode_entry_theatre">थियेटर</string>
+    <string name="pref_camera_scenemode_title">"दृश्य मोड"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"स्वत:"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"बदली"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"दिन का प्रकाश"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"फ़्लोरेसेंट"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"अत्यधिक चमकीला"</string>
+    <string name="pref_camera_whitebalance_entry_shade">शैड</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">टंग्‍सटन</string>
+    <string name="pref_camera_whitebalance_entry_twilight">पूर्णमासी</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">गर्म फ्लूरोसेंट</string>
+    <string name="pref_camera_whitebalance_title">"श्वेत संतुलन"</string>
+    <string name="pref_thermal_dialog_content">उपकरणकातापमानबहुतअधिकहैऔरकैमरा30सेकेंडमेंस्वतःबंदहोजाएगा।कृपयाइसेबादमेंउपयोगकरनेकाप्रयासकरें।</string>
+    <string name="pref_thermal_dialog_content_launch">उपकरणकातापमानबहुतअधिकहै,कृपयाकैमरेकाउपयोगबादमेंकरें।</string>
+    <string name="pref_thermal_dialog_title">चेतावनी</string>
+    <string name="pref_thermal_preview_toast">जारी रखने के लिए स्क्रीन छुएँ।</string>
+    <string name="saving_dialog_default_string">सहेजा जा रहा है...</string>
+    <string name="sdof_mode_name">क्षेत्र की गहराई</string>
+    <string name="sdof_picture_size_title">"चित्र आकार"</string>
+    <string name="sdof_video_quality_title">"वीडियो गुणवत्ता"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"सर्च"</string>
+    <string name="self_timer_entry_10">10 सेकेंड</string>
+    <string name="self_timer_entry_2">2 सेकेंड</string>
+    <string name="self_timer_entry_off">"बंद"</string>
+    <string name="self_timer_title">सेल्‍फ टाइमर</string>
+    <string name="setting_title">"सेटिंग"</string>
+    <string name="shutter_speed_entry_1">1 सेकेंड</string>
+    <string name="shutter_speed_entry_16">16 सेकेंड</string>
+    <string name="shutter_speed_entry_2">"2 सेकंड"</string>
+    <string name="shutter_speed_entry_4">"4 सेकंड"</string>
+    <string name="shutter_speed_entry_8">"8 सेकंड"</string>
+    <string name="shutter_speed_entry_auto">"स्वत:"</string>
+    <string name="shutter_speed_title">शटर गति</string>
+    <string name="shutter_type_photo">"चित्र"</string>
+    <string name="shutter_type_video">"वीडियो"</string>
+    <string name="slow_motion_title">धीमी गति</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">डिफ़ॉल्ट संग्रहण भरा है, कृपया कुछ स्थान खाली करें या सेटिंग में संग्रहण विकल्प प्रबंधित करें</string>
+    <string name="video_bad_performance_auto_stop">कम मेमोरी, रिकॉर्डिंग स्वतः बंद करें।</string>
+    <string name="video_bad_performance_drop_quality">कम मेमोरी, गुणवत्ता स्वतः परिवर्तित करें।</string>
+    <string name="video_camera_label">"कैमकॉर्डर"</string>
+    <string name="video_quality_title">"वीडियो गुणवत्ता"</string>
+    <string name="video_reach_size_limit">"आकार सीमा पहुंची."</string>
+    <string name="video_recording_error">रिकॉर्डिंग के दौरान त्रुटि!</string>
+    <string name="video_recording_not_available">वीडियो कैमरा का उपयोग करने से पहले कृपया दूसरे रिकॉर्डिंग एप्लिकेशंस बंद करें।</string>
+</resources>

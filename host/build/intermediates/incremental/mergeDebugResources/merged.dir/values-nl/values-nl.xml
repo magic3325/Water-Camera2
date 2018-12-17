@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"UIT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AAN"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"verwijderen"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="accessibility_mode">Cameramodus</string>
+    <string name="accessibility_setting">Instelling</string>
+    <string name="accessibility_shutter">"Sluiterknop"</string>
+    <string name="accessibility_switch_to_panorama">Wissel naar Panorama</string>
+    <string name="accessibility_thumbnail">"Meest recente foto"</string>
+    <string name="aeaf_lock_indicator">AE/AF-vergrendeling</string>
+    <string name="ais_title">Anti-schudden</string>
+    <string name="asd_hdr_guide">Inschakelen van HDR kan betere fotoresultaten opleveren</string>
+    <string name="camera_label">"Camera"</string>
+    <string name="can_not_use_storage">SD-kaart niet beschikbaar</string>
+    <string name="continuous_saving_pictures">"<ns1:g example="10" id="numbers">%1$d</ns1:g> foto's opslaan"</string>
+    <string name="dual_camera_lens_covered_toast">Lensafgedekt.</string>
+    <string name="dual_camera_low_constract_toast">LaagcontrastkanDualcamera-effectenbe?vloeden.</string>
+    <string name="dual_camera_lowlight_toast">TeweiniglichtkanDualcamera-effectenbe?vloeden.</string>
+    <string name="dual_camera_too_close_toast">TedichtbijonderwerpvoorDualcamera-effecten.</string>
+    <string name="long_exposure_abort">“Afbreken”</string>
+    <string name="long_exposure_guide_hint">Houd de telefoon stabiel na het indrukken van de ontspanknop</string>
+    <string name="long_exposure_motion_title">Lange belichtingstijd</string>
+    <string name="microphone_title">"Microfoon"</string>
+    <string name="mode_fragment_title">Modi</string>
+    <string name="noise_reduction_title">Ruisvermindering</string>
+    <string name="normal_mode_title">"Normaal"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Verplaatshetapparaatzodatdetweelijnenelkaaroverlappen</string>
+    <string name="panorama_guide_choose_direction">Verplaatshetapparaatinderichtingvandeopname</string>
+    <string name="panorama_guide_shutter">Druk op de sluiterknop om panorama vast te leggen</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">Autom.</string>
+    <string name="pref_camera_antibanding_entry_off">"uit"</string>
+    <string name="pref_camera_antibanding_title">Antiflikkering</string>
+    <string name="pref_camera_coloreffect_entry_aqua">"Aqua"</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Blackboard</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">"Blauwtinten"</string>
+    <string name="pref_camera_coloreffect_entry_greentint">"Groentinten"</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Film</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Geweldig</string>
+    <string name="pref_camera_coloreffect_entry_mono">"Mono"</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">"Mozaïek"</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Vers</string>
+    <string name="pref_camera_coloreffect_entry_negative">"Negatief"</string>
+    <string name="pref_camera_coloreffect_entry_none">"Geen"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">"Pastel"</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"Postereffect"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">"Roodtinten"</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sepia"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Sepia blauw</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Sepia groen</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegant</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Solariseren</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Kalm</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Gaaf"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Whiteboard</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Geheugen</string>
+    <string name="pref_camera_coloreffect_title">Kleureffect</string>
+    <string name="pref_camera_iso_entry_auto">Autom.</string>
+    <string name="pref_camera_picturesize_title">"Grootte van foto"</string>
+    <string name="pref_camera_scenemode_entry_action">"Actie"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automatisch"</string>
+    <string name="pref_camera_scenemode_entry_beach">Strand</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Kaarslicht</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Vuurwerk</string>
+    <string name="pref_camera_scenemode_entry_landscape">Liggend</string>
+    <string name="pref_camera_scenemode_entry_night">"Nacht"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Nachtportret</string>
+    <string name="pref_camera_scenemode_entry_off">"uit"</string>
+    <string name="pref_camera_scenemode_entry_party">"Feest"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Staand</string>
+    <string name="pref_camera_scenemode_entry_snow">sneeuw</string>
+    <string name="pref_camera_scenemode_entry_sports">"Actie"</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Foto zonder trillen</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Zonsondergang"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Theater</string>
+    <string name="pref_camera_scenemode_title">"Scènemodus"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automatisch"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Bewolkt"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Daglicht"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescerend"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Gloeilamp"</string>
+    <string name="pref_camera_whitebalance_entry_shade">"Schaduw"</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Gloeilamp</string>
+    <string name="pref_camera_whitebalance_entry_twilight">"Schemering"</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">"Warm fluorescerend"</string>
+    <string name="pref_camera_whitebalance_title">"Witbalans"</string>
+    <string name="pref_thermal_dialog_content">Temperatuurapparaatistehoogendecamerastoptautomatischover30seconden.Probeerhemlatertegebruiken.</string>
+    <string name="pref_thermal_dialog_content_launch">Temperatuurapparaatistehoog,gebruikdecameralater.</string>
+    <string name="pref_thermal_dialog_title">Waarschuwing</string>
+    <string name="pref_thermal_preview_toast">Raak het scherm aan om door te gaan.</string>
+    <string name="saving_dialog_default_string">Bezig met opslaan…</string>
+    <string name="sdof_mode_name">Stereo</string>
+    <string name="sdof_picture_size_title">"Grootte van foto"</string>
+    <string name="sdof_video_quality_title">"Videokwaliteit"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Zoeken"</string>
+    <string name="self_timer_entry_10">10 seconden</string>
+    <string name="self_timer_entry_2">2 seconden</string>
+    <string name="self_timer_entry_off">"Uit"</string>
+    <string name="self_timer_title">Zelfontspanner</string>
+    <string name="setting_title">"Instellingen"</string>
+    <string name="shutter_speed_entry_1">1 seconde</string>
+    <string name="shutter_speed_entry_16">16 seconden</string>
+    <string name="shutter_speed_entry_2">"2 seconden"</string>
+    <string name="shutter_speed_entry_4">"4 seconden"</string>
+    <string name="shutter_speed_entry_8">"8 seconden"</string>
+    <string name="shutter_speed_entry_auto">"Automatisch"</string>
+    <string name="shutter_speed_title">Sluitertijd</string>
+    <string name="shutter_type_photo">"Afbeelding"</string>
+    <string name="shutter_type_video">"Video"</string>
+    <string name="slow_motion_title">Slow motion</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">De standaardopslag is vol, maak ruimte vrij of beheer de opslagopties in instellingen</string>
+    <string name="video_bad_performance_auto_stop">Te weinig geheugen, opnemen stopt automatisch.</string>
+    <string name="video_bad_performance_drop_quality">Te weinig geheugen, kwaliteit automatisch wijzigen.</string>
+    <string name="video_camera_label">"Camcorder"</string>
+    <string name="video_quality_title">"Videokwaliteit"</string>
+    <string name="video_reach_size_limit">"Maximale grootte bereikt"</string>
+    <string name="video_recording_error">Fout tijdens opname.</string>
+    <string name="video_recording_not_available">Stop de andere opnametoepassingen voordat u de videocamera gebruikt.</string>
+</resources>

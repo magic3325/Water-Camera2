@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Escolher uma aplicação"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"eliminar"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Função +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partilhar com"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Partilhar com a aplicação <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Reduzir"</string>
+    <string name="accessibility_mode">Modo de câmara</string>
+    <string name="accessibility_setting">Configuração</string>
+    <string name="accessibility_shutter">"Botão Obturador"</string>
+    <string name="accessibility_switch_to_panorama">Modo panorâmico</string>
+    <string name="accessibility_thumbnail">"Fotografia mais recente"</string>
+    <string name="aeaf_lock_indicator">Bloqueio AE/AF</string>
+    <string name="ais_title">Anti-vibração</string>
+    <string name="asd_hdr_guide">A ativação da opção HDR poderá melhorar o efeito da fotografia</string>
+    <string name="camera_label">"Câmara"</string>
+    <string name="can_not_use_storage">Cartão SD não disponível</string>
+    <string name="continuous_saving_pictures">A guardar  <ns1:g example="10" id="numbers">%1$d</ns1:g> imagens </string>
+    <string name="dual_camera_lens_covered_toast">Lentetapada.</string>
+    <string name="dual_camera_low_constract_toast">Obaixocontrastepoderáafetarosefeitosdecâmaradupla.</string>
+    <string name="dual_camera_lowlight_toast">Abaixaluminosidadepoderáafetarosefeitosdecâmaradupla.</string>
+    <string name="dual_camera_too_close_toast">Demasiadopetodoobjetoparaefeitosdecâmaradupla.</string>
+    <string name="long_exposure_abort">"Abortar"</string>
+    <string name="long_exposure_guide_hint">Mantenha o telefone estável depois de premir o botão do obturador</string>
+    <string name="long_exposure_motion_title">Exposição longa</string>
+    <string name="microphone_title">"Microfone"</string>
+    <string name="mode_fragment_title">Modos</string>
+    <string name="noise_reduction_title">Redução de ruído</string>
+    <string name="normal_mode_title">"Normal"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Movaodispositivoparasobreporasduaslinhas</string>
+    <string name="panorama_guide_choose_direction">Movaodispositivonadireçãodecaptura</string>
+    <string name="panorama_guide_shutter">Prima o botão do obturador para iniciar a captura da imagem panorâmica</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">Auto</string>
+    <string name="pref_camera_antibanding_entry_off">"desativado"</string>
+    <string name="pref_camera_antibanding_title">Anti tremor</string>
+    <string name="pref_camera_coloreffect_entry_aqua">"Azul-marinho"</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Quadro negro</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">"Tonalidade azul"</string>
+    <string name="pref_camera_coloreffect_entry_greentint">"Tonalidade verde"</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Filme</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Deslumbrante</string>
+    <string name="pref_camera_coloreffect_entry_mono">"Monocromático"</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">"Mosaico"</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Fresco</string>
+    <string name="pref_camera_coloreffect_entry_negative">"Negativo"</string>
+    <string name="pref_camera_coloreffect_entry_none">"Nenhuma"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">"Pastel"</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"Póster"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">"Tonalidade vermelha"</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sépia"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Azul Sépia</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Verde Sépia</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegante</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Solarizado</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Calmo</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Fixe"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Quadro branco</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Memória</string>
+    <string name="pref_camera_coloreffect_title">Efeito de cor</string>
+    <string name="pref_camera_iso_entry_auto">Auto</string>
+    <string name="pref_camera_picturesize_title">"Tamanho da imagem"</string>
+    <string name="pref_camera_scenemode_entry_action">"Acção"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automático"</string>
+    <string name="pref_camera_scenemode_entry_beach">Praia</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Luz de velas</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Fogo de artifício</string>
+    <string name="pref_camera_scenemode_entry_landscape">Paisagem</string>
+    <string name="pref_camera_scenemode_entry_night">"Nocturno"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Retrato nocturno</string>
+    <string name="pref_camera_scenemode_entry_off">"desativado"</string>
+    <string name="pref_camera_scenemode_entry_party">"Partido"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Retrato</string>
+    <string name="pref_camera_scenemode_entry_snow">neve</string>
+    <string name="pref_camera_scenemode_entry_sports">"Acção"</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Foto estável</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Ocaso"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Cinema</string>
+    <string name="pref_camera_scenemode_title">"Modo cenário"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automático"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Nublado"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Luz do dia"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescente"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Incandescente"</string>
+    <string name="pref_camera_whitebalance_entry_shade">"Sombra"</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Tungstênio</string>
+    <string name="pref_camera_whitebalance_entry_twilight">"Crepúsculo"</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">"Fluorescente quente"</string>
+    <string name="pref_camera_whitebalance_title">"Equilíbrio dos brancos"</string>
+    <string name="pref_thermal_dialog_content">Atemperaturadodispositivoédemasiadoelevadaeacâmarairáfecharautomaticamentedentrode30segundos.Tenteutilizarmaistarde.</string>
+    <string name="pref_thermal_dialog_content_launch">Atemperaturadodispositivoédemasiadoelevada,utilizeacâmaramaistarde.</string>
+    <string name="pref_thermal_dialog_title">Aviso</string>
+    <string name="pref_thermal_preview_toast">Toque no ecrã para continuar. </string>
+    <string name="saving_dialog_default_string">Salvando...</string>
+    <string name="sdof_mode_name">Estéreo</string>
+    <string name="sdof_picture_size_title">"Tamanho da imagem"</string>
+    <string name="sdof_video_quality_title">"Qualidade de vídeo"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string name="self_timer_entry_10">10 segundos</string>
+    <string name="self_timer_entry_2">2 segundos</string>
+    <string name="self_timer_entry_off">"Desativado"</string>
+    <string name="self_timer_title">Cronômetro automático</string>
+    <string name="setting_title">"Definições"</string>
+    <string name="shutter_speed_entry_1">1 segundo</string>
+    <string name="shutter_speed_entry_16">16 segundos</string>
+    <string name="shutter_speed_entry_2">"2 segundos"</string>
+    <string name="shutter_speed_entry_4">"4 segundos"</string>
+    <string name="shutter_speed_entry_8">"8 segundos"</string>
+    <string name="shutter_speed_entry_auto">"Automático"</string>
+    <string name="shutter_speed_title">Velocidade do obturador</string>
+    <string name="shutter_type_photo">"Imagem"</string>
+    <string name="shutter_type_video">"Vídeo"</string>
+    <string name="slow_motion_title">Câmara lenta</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">O armazenamento predefinido está cheio. Liberte algum espaço ou altere as definições de armazenamento nas definições.</string>
+    <string name="video_bad_performance_auto_stop">Falta de memória, parar gravação automaticamente.</string>
+    <string name="video_bad_performance_drop_quality">Falta de memória, mudar a qualidade automaticamente.</string>
+    <string name="video_camera_label">"Câmara de vídeo"</string>
+    <string name="video_quality_title">"Qualidade de vídeo"</string>
+    <string name="video_reach_size_limit">"Limite de tamanho atingido."</string>
+    <string name="video_recording_error">Erro durante a gravação!</string>
+    <string name="video_recording_not_available">Pare outras aplicações de gravação antes de utilizar a câmara de vídeo.</string>
+</resources>

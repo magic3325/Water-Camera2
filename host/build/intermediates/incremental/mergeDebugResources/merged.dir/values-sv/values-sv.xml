@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt + "</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl + "</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"retur"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funktion + "</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta + "</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Skift + "</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"blanksteg"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Symbol + "</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Meny + "</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="accessibility_mode">Kameraläge </string>
+    <string name="accessibility_setting">Miljö</string>
+    <string name="accessibility_shutter">"Slutarknappen"</string>
+    <string name="accessibility_switch_to_panorama">Panoramaläge</string>
+    <string name="accessibility_thumbnail">"Senaste fotot"</string>
+    <string name="aeaf_lock_indicator">AE/AF-lås</string>
+    <string name="ais_title">Anti-skak</string>
+    <string name="asd_hdr_guide">Om du aktiverar HDR kan du få bättre fotoeffekter</string>
+    <string name="camera_label">"Kamera"</string>
+    <string name="can_not_use_storage">SD-kort ej tillgängligt</string>
+    <string name="continuous_saving_pictures">Sparar <ns1:g example="10" id="numbers">%1$d</ns1:g> bilder</string>
+    <string name="dual_camera_lens_covered_toast">Linsenövertäckt.</string>
+    <string name="dual_camera_low_constract_toast">Lågkontrastkanpåverkadubblakameraeffekter.</string>
+    <string name="dual_camera_lowlight_toast">Svagbelysningkanpåverkadubblakameraeffekter.</string>
+    <string name="dual_camera_too_close_toast">Förnäraobjektetfördubblakameraeffekter.</string>
+    <string name="long_exposure_abort">"Avbryt"</string>
+    <string name="long_exposure_guide_hint">Håll telefonen stadig efter att slutarknappen har tryckts in</string>
+    <string name="long_exposure_motion_title">Lång exponering</string>
+    <string name="microphone_title">"Mikrofon"</string>
+    <string name="mode_fragment_title">Lägen</string>
+    <string name="noise_reduction_title">Brusreducering</string>
+    <string name="normal_mode_title">"Normal"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Flyttaenhetenförattöverlappadetvålinjerna</string>
+    <string name="panorama_guide_choose_direction">Flyttaenhetennärmarefotoobjektetsriktning.</string>
+    <string name="panorama_guide_shutter">Tryck ner slutaren för att starta panoramafoto</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">"Automatiskt"</string>
+    <string name="pref_camera_antibanding_entry_off">"Av"</string>
+    <string name="pref_camera_antibanding_title">Antiflimmer</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Turkos</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Svarta tavlan</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Blå nyans</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Grön nyans</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Film</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Underbar</string>
+    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Mosaik</string>
+    <string name="pref_camera_coloreffect_entry_nashville">"Nashville"</string>
+    <string name="pref_camera_coloreffect_entry_negative">Negativ</string>
+    <string name="pref_camera_coloreffect_entry_none">"Inga"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Pastell</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Färgreduktion</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Röd nyans</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sepia"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Sepia blå</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Sepia grön</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegant</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Solarisera</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Lugn</string>
+    <string name="pref_camera_coloreffect_entry_walden">Cool</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Vita tavlan</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Minne</string>
+    <string name="pref_camera_coloreffect_title">Färgeffekt</string>
+    <string name="pref_camera_iso_entry_auto">"Automatiskt"</string>
+    <string name="pref_camera_picturesize_title">"Bildstorlek"</string>
+    <string name="pref_camera_scenemode_entry_action">"Action"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automatiskt"</string>
+    <string name="pref_camera_scenemode_entry_beach">Stranden</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Levande ljus</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Fyrverkerier</string>
+    <string name="pref_camera_scenemode_entry_landscape">Liggande</string>
+    <string name="pref_camera_scenemode_entry_night">"Natt"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Nattporträtt</string>
+    <string name="pref_camera_scenemode_entry_off">"Av"</string>
+    <string name="pref_camera_scenemode_entry_party">"Fest"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Stående</string>
+    <string name="pref_camera_scenemode_entry_snow">Snö</string>
+    <string name="pref_camera_scenemode_entry_sports">Sport</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Stadigt foto</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Solnedgång"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Teater</string>
+    <string name="pref_camera_scenemode_title">"Scenläge"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automatiskt"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Molnigt"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Dagsljus"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescerande"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Självlysande"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Skugga</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Volfram</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Skymning</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Varm fluorescerande</string>
+    <string name="pref_camera_whitebalance_title">"Vitbalans"</string>
+    <string name="pref_thermal_dialog_content">Enhetenstemperaturärförhögochkameranstängsautomatisktom30sekunder.Provaanvändadensenare.</string>
+    <string name="pref_thermal_dialog_content_launch">Enhetenstemperaturärförhög.Låtkameranståetttag.</string>
+    <string name="pref_thermal_dialog_title">Varning</string>
+    <string name="pref_thermal_preview_toast">Tryck på skärmen för att fortsätta.</string>
+    <string name="saving_dialog_default_string">sparar…</string>
+    <string name="sdof_mode_name">Skärpedjup</string>
+    <string name="sdof_picture_size_title">"Bildstorlek"</string>
+    <string name="sdof_video_quality_title">"Videokvalitet"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
+    <string name="self_timer_entry_10">"10 sekunder"</string>
+    <string name="self_timer_entry_2">"2 sekunder"</string>
+    <string name="self_timer_entry_off">"Av"</string>
+    <string name="self_timer_title">Självtimer</string>
+    <string name="setting_title">"Inställningar"</string>
+    <string name="shutter_speed_entry_1">1 sekund</string>
+    <string name="shutter_speed_entry_16">16 sekunder</string>
+    <string name="shutter_speed_entry_2">"2 sekunder"</string>
+    <string name="shutter_speed_entry_4">"4 sekunder"</string>
+    <string name="shutter_speed_entry_8">"8 sekunder"</string>
+    <string name="shutter_speed_entry_auto">"Automatiskt"</string>
+    <string name="shutter_speed_title">Slutarhastighet</string>
+    <string name="shutter_type_photo">"Bild"</string>
+    <string name="shutter_type_video">"Video"</string>
+    <string name="slow_motion_title">Slow motion</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Standardlagringen är full, frigör utrymme eller hantera lagringsalternativen i inställningarna</string>
+    <string name="video_bad_performance_auto_stop">Lågt minne, inspelningen stoppas automatiskt.</string>
+    <string name="video_bad_performance_drop_quality">Lågt minne, kvaliteten ändras automatiskt.</string>
+    <string name="video_camera_label">"Videokamera"</string>
+    <string name="video_quality_title">"Videokvalitet"</string>
+    <string name="video_reach_size_limit">"Storleksgränsen nådd."</string>
+    <string name="video_recording_error">Ett fel inträffade vid inspelningen!</string>
+    <string name="video_recording_not_available">Stoppa övriga inspelningsprogram innan du använder videokameran.</string>
+</resources>
